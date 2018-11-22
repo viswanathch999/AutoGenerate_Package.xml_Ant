@@ -1,0 +1,32 @@
+************************************************************
+FileName: email/c2g__InvoiceAndCreditNoteEmailTemplates/c2g__communitiesSalesCreditNote.email
+FullName/Id: c2g__InvoiceAndCreditNoteEmailTemplates/c2g__communitiesSalesCreditNote/00X61000000ZtSTEA0
+Manageable State: installed
+Namespace Prefix: c2g
+Created By (Name/Id): TEMPORARY FF Onboarding Login/00561000002zrVwAAI
+Last Modified By (Name/Id): TEMPORARY FF Onboarding Login/00561000002zrVwAAI
+************************************************************
+************************************************************
+FileName: email/c2g__InvoiceAndCreditNoteEmailTemplates/c2g__communitiesSalesInvoice.email
+FullName/Id: c2g__InvoiceAndCreditNoteEmailTemplates/c2g__communitiesSalesInvoice/00X61000000ZtSUEA0
+Manageable State: installed
+Namespace Prefix: c2g
+Created By (Name/Id): TEMPORARY FF Onboarding Login/00561000002zrVwAAI
+Last Modified By (Name/Id): TEMPORARY FF Onboarding Login/00561000002zrVwAAI
+************************************************************
+************************************************************
+FileName: email/c2g__InvoiceAndCreditNoteEmailTemplates/c2g__codaSalesInvoiceStandard.email
+FullName/Id: c2g__InvoiceAndCreditNoteEmailTemplates/c2g__codaSalesInvoiceStandard/00X61000000ZtSSEA0
+Manageable State: installed
+Namespace Prefix: c2g
+Created By (Name/Id): TEMPORARY FF Onboarding Login/00561000002zrVwAAI
+Last Modified By (Name/Id): TEMPORARY FF Onboarding Login/00561000002zrVwAAI
+************************************************************
+************************************************************
+FileName: email/c2g__InvoiceAndCreditNoteEmailTemplates/c2g__codaSalesCreditNoteStandard.email
+FullName/Id: c2g__InvoiceAndCreditNoteEmailTemplates/c2g__codaSalesCreditNoteStandard/00X61000000ZtSREA0
+Manageable State: installed
+Namespace Prefix: c2g
+Created By (Name/Id): TEMPORARY FF Onboarding Login/00561000002zrVwAAI
+Last Modified By (Name/Id): TEMPORARY FF Onboarding Login/00561000002zrVwAAI
+************************************************************

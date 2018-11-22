@@ -1,0 +1,784 @@
+************************************************************
+FileName: reports/Western_US_Reports/Western_Chapt_Dem_KidsAges.report
+FullName/Id: Western_US_Reports/Western_Chapt_Dem_KidsAges/00O61000004EcLpEAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Chapter_Officer_Matrix_YPO.report
+FullName/Id: Western_US_Reports/Chapter_Officer_Matrix_YPO/00O61000003nO9LEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/FY19_Officer_Attd_CLW_Europe_Western_US.report
+FullName/Id: Western_US_Reports/FY19_Officer_Attd_CLW_Europe_Western_US/00O610000042mWNEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Renewals_Activity_History.report
+FullName/Id: Western_US_Reports/Renewals_Activity_History/00O61000004EJhvEAG
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Demographics_Non_Chapter_Event_Attend.report
+FullName/Id: Western_US_Reports/Demographics_Non_Chapter_Event_Attend/00O61000004EeGIEA0
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/FY19_Officer_Attd_CLW_America_Western_US.report
+FullName/Id: Western_US_Reports/FY19_Officer_Attd_CLW_America_Western_US/00O610000042mXBEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Demographics_S_P_Exchange_Access.report
+FullName/Id: Western_US_Reports/Demographics_S_P_Exchange_Access/00O61000004EdISEA0
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Gold_Elect_Officer_GLC.report
+FullName/Id: Western_US_Reports/Gold_Elect_Officer_GLC/00O61000003nOA4EAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Demographics_Member_Forum_Status.report
+FullName/Id: Western_US_Reports/Demographics_Member_Forum_Status/00O61000004ERRREA4
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/FY18_Lifetime_Members_Western_US.report
+FullName/Id: Western_US_Reports/FY18_Lifetime_Members_Western_US/00O61000004ELPjEAO
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Engagement_MembersNONchaptPositions.report
+FullName/Id: Western_US_Reports/Engagement_MembersNONchaptPositions/00O61000004Ekt1EAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Gold_Chapter_Members_YPO_Origins.report
+FullName/Id: Western_US_Reports/Gold_Chapter_Members_YPO_Origins/00O61000003nXeAEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Western_Chapter_Dem_MembersByScope.report
+FullName/Id: Western_US_Reports/Western_Chapter_Dem_MembersByScope/00O61000004EOt8EAG
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Demographics_Networks_by_Type.report
+FullName/Id: Western_US_Reports/Demographics_Networks_by_Type/00O61000004EgD6EAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Dallas_Area_YPO_Chapter.report
+FullName/Id: Western_US_Reports/Dallas_Area_YPO_Chapter/00O61000004ErT0EAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Chapter_Officers_Past_Current_Elect.report
+FullName/Id: Western_US_Reports/Chapter_Officers_Past_Current_Elect/00O61000003nOTLEA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Demographics_Membership_over_time.report
+FullName/Id: Western_US_Reports/Demographics_Membership_over_time/00O61000004ER8KEAW
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Membership_Criteria_by_Chapter.report
+FullName/Id: Western_US_Reports/Membership_Criteria_by_Chapter/00O610000042oWyEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/FY19_Chapter_Officer_Attd_GLC_Western_US.report
+FullName/Id: Western_US_Reports/FY19_Chapter_Officer_Attd_GLC_Western_US/00O610000042mVeEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Demographics_New_Members.report
+FullName/Id: Western_US_Reports/Demographics_New_Members/00O61000004ERQsEAO
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Western_Chapter_Dem_Gener.report
+FullName/Id: Western_US_Reports/Western_Chapter_Dem_Gener/00O61000004EOYPEA4
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/YPO_Chapter_Health_Data_Western_US.report
+FullName/Id: Western_US_Reports/YPO_Chapter_Health_Data_Western_US/00O610000042lasEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Chapter_Officers_ID_Not_Registered_WesUS1.report
+FullName/Id: Western_US_Reports/Chapter_Officers_ID_Not_Registered_WesUS1/00O610000042qA1EAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Liz Jang/00561000002DozTAAS
+Last Modified By (Name/Id): Liz Jang/00561000002DozTAAS
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Demographics_Network_Affil_by_Member.report
+FullName/Id: Western_US_Reports/Demographics_Network_Affil_by_Member/00O61000004EgD1EAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/YPO_CBMS19.report
+FullName/Id: Western_US_Reports/YPO_CBMS19/00O610000042l0VEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Western_New_Member_Letters.report
+FullName/Id: Western_US_Reports/Western_New_Member_Letters/00O61000003nKNiEAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Current_YPO_CH_Dashboard_Report.report
+FullName/Id: Western_US_Reports/Current_YPO_CH_Dashboard_Report/00O610000046OUlEAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Demographics_Members_NOT_in_a_Network1.report
+FullName/Id: Western_US_Reports/Demographics_Members_NOT_in_a_Network1/00O61000004EkkOEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Gold_Elect_Officers_CLW.report
+FullName/Id: Western_US_Reports/Gold_Elect_Officers_CLW/00O61000003nOAJEA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Family_YNG_enroll_over_3_years.report
+FullName/Id: Western_US_Reports/Family_YNG_enroll_over_3_years/00O61000004EtoUEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/CLW_Attended.report
+FullName/Id: Western_US_Reports/CLW_Attended/00O61000004EEcMEAW
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Western_Chapter_Dem_Elect_Officers.report
+FullName/Id: Western_US_Reports/Western_Chapter_Dem_Elect_Officers/00O61000004EdImEAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Member_Addresses.report
+FullName/Id: Western_US_Reports/Member_Addresses/00O61000001ZZWcEAO
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Western_US_REX_Mailing_Addresse.report
+FullName/Id: Western_US_Reports/Western_US_REX_Mailing_Addresse/00O610000046V9lEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Chapter_Health_Report_for_Area_Chairs.report
+FullName/Id: Western_US_Reports/Chapter_Health_Report_for_Area_Chairs/00O61000004EjmxEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Demographics_Chapt_Transition_by_Year1.report
+FullName/Id: Western_US_Reports/Demographics_Chapt_Transition_by_Year1/00O61000004Eef8EAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Renewals_Western_US_YPO.report
+FullName/Id: Western_US_Reports/Renewals_Western_US_YPO/00O61000004E1KAEA0
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Regional_Officers_Past_Current_Elect.report
+FullName/Id: Western_US_Reports/Regional_Officers_Past_Current_Elect/00O61000004EPtxEAG
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Liz Jang/00561000002DozTAAS
+Last Modified By (Name/Id): Liz Jang/00561000002DozTAAS
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Western_Chapter_Dem_MembersByOrgType.report
+FullName/Id: Western_US_Reports/Western_Chapter_Dem_MembersByOrgType/00O61000004EOstEAG
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Western_Chapter_Dem_MembByPresType.report
+FullName/Id: Western_US_Reports/Western_Chapter_Dem_MembByPresType/00O61000004EOsyEAG
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/YPO_Gold_Nebraska1.report
+FullName/Id: Western_US_Reports/YPO_Gold_Nebraska1/00O61000003nXGNEA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Western_Chapter_Dem_Lead_Conv.report
+FullName/Id: Western_US_Reports/Western_Chapter_Dem_Lead_Conv/00O61000004EdJVEA0
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Membership_Western_US_Under_35.report
+FullName/Id: Western_US_Reports/Membership_Western_US_Under_35/00O61000004EtFtEAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Demographics_Forums_by_chapter.report
+FullName/Id: Western_US_Reports/Demographics_Forums_by_chapter/00O61000004EloWEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/FY19_Chapter_Officer_ID_Western_US.report
+FullName/Id: Western_US_Reports/FY19_Chapter_Officer_ID_Western_US/00O610000042mV0EAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Chapter_Officer_Matrix_GOLD.report
+FullName/Id: Western_US_Reports/Chapter_Officer_Matrix_GOLD/00O61000003nO91EAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Western_Chapt_Dem_Spouse_Kid_Count.report
+FullName/Id: Western_US_Reports/Western_Chapt_Dem_Spouse_Kid_Count/00O61000004EdIIEA0
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Renewal_Projection_Report_Western_US.report
+FullName/Id: Western_US_Reports/Renewal_Projection_Report_Western_US/00O61000004ELlpEAG
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Chapter_Health_Gold_Metrics_over_5_yrs.report
+FullName/Id: Western_US_Reports/Chapter_Health_Gold_Metrics_over_5_yrs/00O61000004EtmsEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/YPO_Gold_CBMS19.report
+FullName/Id: Western_US_Reports/YPO_Gold_CBMS19/00O610000042l0QEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Officer_Training_Regional_Officers_GLC.report
+FullName/Id: Western_US_Reports/Officer_Training_Regional_Officers_GLC/00O610000042gkEEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Demographics_Network_Affiliations.report
+FullName/Id: Western_US_Reports/Demographics_Network_Affiliations/00O61000004EeG8EAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Demographics_Member_List_with_NO_Ntwrk.report
+FullName/Id: Western_US_Reports/Demographics_Member_List_with_NO_Ntwrk/00O61000004EkkYEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Western_Chapter_Dem_Members_by_Age.report
+FullName/Id: Western_US_Reports/Western_Chapter_Dem_Members_by_Age/00O61000004EOYtEAO
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Chapter_Dues_Collection_Western_US.report
+FullName/Id: Western_US_Reports/Chapter_Dues_Collection_Western_US/00O610000042taMEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Demographics_Elect_Officer_Ladder.report
+FullName/Id: Western_US_Reports/Demographics_Elect_Officer_Ladder/00O61000004EWPaEAO
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Western_RBM_Invitees.report
+FullName/Id: Western_US_Reports/Western_RBM_Invitees/00O61000003nF9AEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/YPO_Chapter_Member_Profile.report
+FullName/Id: Western_US_Reports/YPO_Chapter_Member_Profile/00O61000003nOUdEAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/FY19_Reg_Officers_Reg_for_GLC_Western_US.report
+FullName/Id: Western_US_Reports/FY19_Reg_Officers_Reg_for_GLC_Western_US/00O610000042ktyEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Western_Chapter_Health_Data.report
+FullName/Id: Western_US_Reports/Western_Chapter_Health_Data/00O61000004EdJ6EAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/YPO_Elect_Officers_GLC.report
+FullName/Id: Western_US_Reports/YPO_Elect_Officers_GLC/00O61000003nOA9EAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Demographics_Current_FY_event_reg.report
+FullName/Id: Western_US_Reports/Demographics_Current_FY_event_reg/00O61000004EeGcEAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Demographics_Spouse_Forums_by_Chapter.report
+FullName/Id: Western_US_Reports/Demographics_Spouse_Forums_by_Chapter/00O61000004ElpyEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Demographics_NMV.report
+FullName/Id: Western_US_Reports/Demographics_NMV/00O61000004EWRCEA4
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/New_Members_by_FY.report
+FullName/Id: Western_US_Reports/New_Members_by_FY/00O61000004Es2tEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/YPO_Renewal_Projection_Report_Western_US.report
+FullName/Id: Western_US_Reports/YPO_Renewal_Projection_Report_Western_US/00O61000004EL8YEAW
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Demographics_Member_by_Industry.report
+FullName/Id: Western_US_Reports/Demographics_Member_by_Industry/00O61000004ERRHEA4
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/FY17_18_Chapter_Events_in_Cvent.report
+FullName/Id: Western_US_Reports/FY17_18_Chapter_Events_in_Cvent/00O610000046GuCEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Renewals_Gold_FY18_19.report
+FullName/Id: Western_US_Reports/Renewals_Gold_FY18_19/00O61000001ZlScEAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Liz Jang/00561000002DozTAAS
+Last Modified By (Name/Id): Liz Jang/00561000002DozTAAS
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Western_Chapter_Dem_Lead_Source.report
+FullName/Id: Western_US_Reports/Western_Chapter_Dem_Lead_Source/00O61000004EdKYEA0
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Demographics_Event_Reg_by_Focus.report
+FullName/Id: Western_US_Reports/Demographics_Event_Reg_by_Focus/00O61000004EeH1EAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Demographics_Profile_Completion.report
+FullName/Id: Western_US_Reports/Demographics_Profile_Completion/00O61000004EgDaEAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/FY17_18_Gold_Chapter_Events.report
+FullName/Id: Western_US_Reports/FY17_18_Gold_Chapter_Events/00O610000046GuMEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Demographics_Chapt_Transition_by_Year.report
+FullName/Id: Western_US_Reports/Demographics_Chapt_Transition_by_Year/00O61000004EeetEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Demographics_FFVS_keep.report
+FullName/Id: Western_US_Reports/Demographics_FFVS_keep/00O61000004EeFyEAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Chapter_Health_Metrics_over_5_years.report
+FullName/Id: Western_US_Reports/Chapter_Health_Metrics_over_5_years/00O61000004EtlpEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Demographics_Current_Officer_Ladder.report
+FullName/Id: Western_US_Reports/Demographics_Current_Officer_Ladder/00O61000004EWPLEA4
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Demographics_Event_Reg_by_Member.report
+FullName/Id: Western_US_Reports/Demographics_Event_Reg_by_Member/00O61000004EeGhEAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Western_Chapter_Dem_Current_Officers.report
+FullName/Id: Western_US_Reports/Western_Chapter_Dem_Current_Officers/00O61000004EdIrEAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Western_US_Past_Workshop_Champions.report
+FullName/Id: Western_US_Reports/Western_US_Past_Workshop_Champions/00O61000004EnF9EAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Transitioning_Members_to_YPO_Gold_FY182.report
+FullName/Id: Western_US_Reports/Transitioning_Members_to_YPO_Gold_FY182/00O61000004EOieEAG
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/YPO_Gold_Nebraska_Resigned1.report
+FullName/Id: Western_US_Reports/YPO_Gold_Nebraska_Resigned1/00O61000003nXFtEAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Western_US_Former_Chapter_Members.report
+FullName/Id: Western_US_Reports/Western_US_Former_Chapter_Members/00O61000003nGnvEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Western_Chapter_Dem_Leads_in_Portal.report
+FullName/Id: Western_US_Reports/Western_Chapter_Dem_Leads_in_Portal/00O61000004EdJLEA0
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Family_YNG_Subscriptions_by_Chapter.report
+FullName/Id: Western_US_Reports/Family_YNG_Subscriptions_by_Chapter/00O61000004EtoPEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Western_Chap_Dem_Approval_Date.report
+FullName/Id: Western_US_Reports/Western_Chap_Dem_Approval_Date/00O61000004EdIhEAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Demographics_Forums_by_Chapter1.report
+FullName/Id: Western_US_Reports/Demographics_Forums_by_Chapter1/00O61000004EloqEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Renewals_Western_US_Gold.report
+FullName/Id: Western_US_Reports/Renewals_Western_US_Gold/00O61000004E1K0EAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Western_Chapter_Dem_Members_by_Chapt.report
+FullName/Id: Western_US_Reports/Western_Chapter_Dem_Members_by_Chapt/00O61000004EOtIEAW
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/FY19_Regional_Officer_ID_Western_US.report
+FullName/Id: Western_US_Reports/FY19_Regional_Officer_ID_Western_US/00O610000042l0kEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/YPO_Elect_Officers_CLW.report
+FullName/Id: Western_US_Reports/YPO_Elect_Officers_CLW/00O61000003nOAEEA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Demographics_FFV_FFVS.report
+FullName/Id: Western_US_Reports/Demographics_FFV_FFVS/00O61000004EWQ9EAO
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/YPO_Member_Profile_Report_Western_US.report
+FullName/Id: Western_US_Reports/YPO_Member_Profile_Report_Western_US/00O610000042lZ6EAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Demographics_FFVS.report
+FullName/Id: Western_US_Reports/Demographics_FFVS/00O61000004EWR2EAO
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/YPO_Kansas_Integration_Report1.report
+FullName/Id: Western_US_Reports/YPO_Kansas_Integration_Report1/00O61000003nXG3EAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Chapter_Health_Region_Averages.report
+FullName/Id: Western_US_Reports/Chapter_Health_Region_Averages/00O61000004EjnWEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Western_Chapter_Dem_Member_by_Age.report
+FullName/Id: Western_US_Reports/Western_Chapter_Dem_Member_by_Age/00O61000004EOaaEAG
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Western_US_Reports/Chapter_Visits_Western_US.report
+FullName/Id: Western_US_Reports/Chapter_Visits_Western_US/00O610000049rIPEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************

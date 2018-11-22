@@ -1,0 +1,528 @@
+************************************************************
+FileName: reports/Pacific_US/YPO_Chapter_Health_Data_Pacific_US.report
+FullName/Id: Pacific_US/YPO_Chapter_Health_Data_Pacific_US/00O610000042laOEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/YPO_Pacific_US_Members_by_Gender.report
+FullName/Id: Pacific_US/YPO_Pacific_US_Members_by_Gender/00O610000046XDLEA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Conway/00561000002DoybAAC
+Last Modified By (Name/Id): Thomas Conway/00561000002DoybAAC
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/Pacific_U_S_Projection_Report.report
+FullName/Id: Pacific_US/Pacific_U_S_Projection_Report/00O610000046AFWEA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Mikki Delci/00561000002DoykAAC
+Last Modified By (Name/Id): Mikki Delci/00561000002DoykAAC
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/YPO_Pacific_U_S_Active_Members.report
+FullName/Id: Pacific_US/YPO_Pacific_U_S_Active_Members/00O610000046Gi1EAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laurie Cantagallo/00561000002DoyKAAS
+Last Modified By (Name/Id): Laurie Cantagallo/00561000002DoyKAAS
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/YPO_SF_Gold.report
+FullName/Id: Pacific_US/YPO_SF_Gold/00O61000003nXN4EAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Mikki Delci/00561000002DoykAAC
+Last Modified By (Name/Id): Mikki Delci/00561000002DoykAAC
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/Chapter_Health_by_Chapter.report
+FullName/Id: Pacific_US/Chapter_Health_by_Chapter/00O610000042U2OEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Conway/00561000002DoybAAC
+Last Modified By (Name/Id): Thomas Conway/00561000002DoybAAC
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/FY19_Chapter_Officer_ID_Pacific_US.report
+FullName/Id: Pacific_US/FY19_Chapter_Officer_ID_Pacific_US/00O610000042mS6EAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/YPO_Angeleno_Gold_Members_w_Pri_Sec_Acct.report
+FullName/Id: Pacific_US/YPO_Angeleno_Gold_Members_w_Pri_Sec_Acct/00O610000042zXJEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/Pacific_U_S_Regional_Officers.report
+FullName/Id: Pacific_US/Pacific_U_S_Regional_Officers/00O61000003nMJ9EAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Mikki Delci/00561000002DoykAAC
+Last Modified By (Name/Id): Mikki Delci/00561000002DoykAAC
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/YPO_Member_Profile_Report_Pacific_US.report
+FullName/Id: Pacific_US/YPO_Member_Profile_Report_Pacific_US/00O610000042lYmEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/Chapter_Health_Metrics_by_Chapter.report
+FullName/Id: Pacific_US/Chapter_Health_Metrics_by_Chapter/00O610000042gzTEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laurie Cantagallo/00561000002DoyKAAS
+Last Modified By (Name/Id): Laurie Cantagallo/00561000002DoyKAAS
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/Pacific_U_S.report
+FullName/Id: Pacific_US/Pacific_U_S/00O61000003nMCmEAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Mikki Delci/00561000002DoykAAC
+Last Modified By (Name/Id): Mikki Delci/00561000002DoykAAC
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/YPO_PACUS_GOLD_CBMS.report
+FullName/Id: Pacific_US/YPO_PACUS_GOLD_CBMS/00O610000042biUEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Conway/00561000002DoybAAC
+Last Modified By (Name/Id): Thomas Conway/00561000002DoybAAC
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/YPO_Renewal_Projection_Report_Pacific_US.report
+FullName/Id: Pacific_US/YPO_Renewal_Projection_Report_Pacific_US/00O61000004EL9qEAG
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/Pacific_US_FY18_Chapter_Officers.report
+FullName/Id: Pacific_US/Pacific_US_FY18_Chapter_Officers/00O61000003nNS2EAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Mikki Delci/00561000002DoykAAC
+Last Modified By (Name/Id): Mikki Delci/00561000002DoykAAC
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/PACUS_YPO_Gold_Members.report
+FullName/Id: Pacific_US/PACUS_YPO_Gold_Members/00O6100000432NSEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Conway/00561000002DoybAAC
+Last Modified By (Name/Id): Thomas Conway/00561000002DoybAAC
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/Chapter_Officers_No_Plan_to_Fill.report
+FullName/Id: Pacific_US/Chapter_Officers_No_Plan_to_Fill/00O610000042fMLEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laurie Cantagallo/00561000002DoyKAAS
+Last Modified By (Name/Id): Laurie Cantagallo/00561000002DoyKAAS
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/Renewal_Progress_Status_FY18_19_Pac_US.report
+FullName/Id: Pacific_US/Renewal_Progress_Status_FY18_19_Pac_US/00O61000004EDRwEAO
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/YPO_PACUS_Membership.report
+FullName/Id: Pacific_US/YPO_PACUS_Membership/00O61000004684pEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Conway/00561000002DoybAAC
+Last Modified By (Name/Id): Thomas Conway/00561000002DoybAAC
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/FY18_Regional_Officer.report
+FullName/Id: Pacific_US/FY18_Regional_Officer/00O61000004EJBBEA4
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Mikki Delci/00561000002DoykAAC
+Last Modified By (Name/Id): Mikki Delci/00561000002DoykAAC
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/YPO_Origin_Chapters.report
+FullName/Id: Pacific_US/YPO_Origin_Chapters/00O610000046ZIXEA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laurie Cantagallo/00561000002DoyKAAS
+Last Modified By (Name/Id): Laurie Cantagallo/00561000002DoyKAAS
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/FY18_Cur_Chapter_Chairs_w_Mailing_Addres.report
+FullName/Id: Pacific_US/FY18_Cur_Chapter_Chairs_w_Mailing_Addres/00O61000004EUUOEA4
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/Chapter_Visits_Pacific_US.report
+FullName/Id: Pacific_US/Chapter_Visits_Pacific_US/00O610000049rI5EAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/FY19_Reg_Officers_Reg_for_GLC_Pacific_US.report
+FullName/Id: Pacific_US/FY19_Reg_Officers_Reg_for_GLC_Pacific_US/00O610000042kuIEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/Active_Members_w_Spouse_Child_ren.report
+FullName/Id: Pacific_US/Active_Members_w_Spouse_Child_ren/00O61000003nUDfEAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Mikki Delci/00561000002DoykAAC
+Last Modified By (Name/Id): Mikki Delci/00561000002DoykAAC
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/YPO_Gold_CBMS16.report
+FullName/Id: Pacific_US/YPO_Gold_CBMS16/00O610000042kzwEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/YPO_CBMS16.report
+FullName/Id: Pacific_US/YPO_CBMS16/00O610000042l01EAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/YPO_SGV_Roster.report
+FullName/Id: Pacific_US/YPO_SGV_Roster/00O61000003nYeGEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Conway/00561000002DoybAAC
+Last Modified By (Name/Id): Thomas Conway/00561000002DoybAAC
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/Members_in_Committees.report
+FullName/Id: Pacific_US/Members_in_Committees/00O6100000438ozEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laurie Cantagallo/00561000002DoyKAAS
+Last Modified By (Name/Id): Laurie Cantagallo/00561000002DoyKAAS
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/FY19_Chapter_Officer_Attd_GLC_Pacific_US.report
+FullName/Id: Pacific_US/FY19_Chapter_Officer_Attd_GLC_Pacific_US/00O610000042mSQEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/SGV_Gold_Members.report
+FullName/Id: Pacific_US/SGV_Gold_Members/00O61000003nYeBEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Conway/00561000002DoybAAC
+Last Modified By (Name/Id): Thomas Conway/00561000002DoybAAC
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/Chapter_Contact_Position_History.report
+FullName/Id: Pacific_US/Chapter_Contact_Position_History/00O61000004EOKcEAO
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laurie Cantagallo/00561000002DoyKAAS
+Last Modified By (Name/Id): Laurie Cantagallo/00561000002DoyKAAS
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/Pacific_U_S_Regional_Officers1.report
+FullName/Id: Pacific_US/Pacific_U_S_Regional_Officers1/00O61000004EewsEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Mikki Delci/00561000002DoykAAC
+Last Modified By (Name/Id): Mikki Delci/00561000002DoykAAC
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/YPO_CIE_Member_and_City.report
+FullName/Id: Pacific_US/YPO_CIE_Member_and_City/00O61000003nZsiEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Conway/00561000002DoybAAC
+Last Modified By (Name/Id): Thomas Conway/00561000002DoybAAC
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/SGV_with_City.report
+FullName/Id: Pacific_US/SGV_with_City/00O61000003nZsdEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Conway/00561000002DoybAAC
+Last Modified By (Name/Id): Thomas Conway/00561000002DoybAAC
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/Female_Members_PACUS.report
+FullName/Id: Pacific_US/Female_Members_PACUS/00O61000004313WEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Conway/00561000002DoybAAC
+Last Modified By (Name/Id): Thomas Conway/00561000002DoybAAC
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/YPO_PACUS_CBMS.report
+FullName/Id: Pacific_US/YPO_PACUS_CBMS/00O610000042biPEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Conway/00561000002DoybAAC
+Last Modified By (Name/Id): Thomas Conway/00561000002DoybAAC
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/Pacific_US_YPO_Mem_w_Pri_Sec_Acct_Aff.report
+FullName/Id: Pacific_US/Pacific_US_YPO_Mem_w_Pri_Sec_Acct_Aff/00O610000042zejEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/YPO_Gold_Pacific_At_Large.report
+FullName/Id: Pacific_US/YPO_Gold_Pacific_At_Large/00O61000003nSKoEAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Mikki Delci/00561000002DoykAAC
+Last Modified By (Name/Id): Mikki Delci/00561000002DoykAAC
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/Chapter_Members_Primary_and_Secondary.report
+FullName/Id: Pacific_US/Chapter_Members_Primary_and_Secondary/00O610000042zYlEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laurie Cantagallo/00561000002DoyKAAS
+Last Modified By (Name/Id): Laurie Cantagallo/00561000002DoyKAAS
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/Multi_Year_Chapter_Officer_Report.report
+FullName/Id: Pacific_US/Multi_Year_Chapter_Officer_Report/00O610000046A78EAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laurie Cantagallo/00561000002DoyKAAS
+Last Modified By (Name/Id): Laurie Cantagallo/00561000002DoyKAAS
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/Pacific_U_S_Regional_Officers_by_FY.report
+FullName/Id: Pacific_US/Pacific_U_S_Regional_Officers_by_FY/00O6100000438ouEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laurie Cantagallo/00561000002DoyKAAS
+Last Modified By (Name/Id): Laurie Cantagallo/00561000002DoyKAAS
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/Voucher_Report1.report
+FullName/Id: Pacific_US/Voucher_Report1/00O61000004EifWEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laurie Cantagallo/00561000002DoyKAAS
+Last Modified By (Name/Id): Laurie Cantagallo/00561000002DoyKAAS
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/Education_by_Chapter.report
+FullName/Id: Pacific_US/Education_by_Chapter/00O6100000466ptEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laurie Cantagallo/00561000002DoyKAAS
+Last Modified By (Name/Id): Laurie Cantagallo/00561000002DoyKAAS
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/Chapter_Join_Date.report
+FullName/Id: Pacific_US/Chapter_Join_Date/00O61000003nXJWEA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laurie Cantagallo/00561000002DoyKAAS
+Last Modified By (Name/Id): Laurie Cantagallo/00561000002DoyKAAS
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/PACUS_YPO_Members.report
+FullName/Id: Pacific_US/PACUS_YPO_Members/00O6100000432NNEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Conway/00561000002DoybAAC
+Last Modified By (Name/Id): Thomas Conway/00561000002DoybAAC
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/FY19_Officer_Attd_CLW_Europe_Pacific_US.report
+FullName/Id: Pacific_US/FY19_Officer_Attd_CLW_Europe_Pacific_US/00O610000042mSfEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/Singapore_GLC_ALL_Registrants.report
+FullName/Id: Pacific_US/Singapore_GLC_ALL_Registrants/00O610000043G8iEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Conway/00561000002DoybAAC
+Last Modified By (Name/Id): Thomas Conway/00561000002DoybAAC
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/Women_Attendees_GLC_2018.report
+FullName/Id: Pacific_US/Women_Attendees_GLC_2018/00O610000043G2GEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Conway/00561000002DoybAAC
+Last Modified By (Name/Id): Thomas Conway/00561000002DoybAAC
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/Pacific_U_S_Chapter_Officers.report
+FullName/Id: Pacific_US/Pacific_U_S_Chapter_Officers/00O61000003nMJiEAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laurie Cantagallo/00561000002DoyKAAS
+Last Modified By (Name/Id): Laurie Cantagallo/00561000002DoyKAAS
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/Chapter_Members_History_Details.report
+FullName/Id: Pacific_US/Chapter_Members_History_Details/00O610000042qWlEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/EDGE_Female_Member_Registrants.report
+FullName/Id: Pacific_US/EDGE_Female_Member_Registrants/00O610000043G76EAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Conway/00561000002DoybAAC
+Last Modified By (Name/Id): Thomas Conway/00561000002DoybAAC
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/Singapore_EDGE_Members_ALL.report
+FullName/Id: Pacific_US/Singapore_EDGE_Members_ALL/00O610000043G8dEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Conway/00561000002DoybAAC
+Last Modified By (Name/Id): Thomas Conway/00561000002DoybAAC
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/FY19_Chapter_Off_ID_Not_Registered_PACUS.report
+FullName/Id: Pacific_US/FY19_Chapter_Off_ID_Not_Registered_PACUS/00O610000042qCvEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Conway/00561000002DoybAAC
+Last Modified By (Name/Id): Thomas Conway/00561000002DoybAAC
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/CAs.report
+FullName/Id: Pacific_US/CAs/00O6100000463gJEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Conway/00561000002DoybAAC
+Last Modified By (Name/Id): Thomas Conway/00561000002DoybAAC
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/EDGE_2018_Singapore_Female_Registrants.report
+FullName/Id: Pacific_US/EDGE_2018_Singapore_Female_Registrants/00O610000043G7GEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Conway/00561000002DoybAAC
+Last Modified By (Name/Id): Thomas Conway/00561000002DoybAAC
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/Pacific_US_Members.report
+FullName/Id: Pacific_US/Pacific_US_Members/00O6100000432NIEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Conway/00561000002DoybAAC
+Last Modified By (Name/Id): Thomas Conway/00561000002DoybAAC
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/Pacific_US_Chapter_Health_by_Chapter.report
+FullName/Id: Pacific_US/Pacific_US_Chapter_Health_by_Chapter/00O6100000432M5EAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Conway/00561000002DoybAAC
+Last Modified By (Name/Id): Thomas Conway/00561000002DoybAAC
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/Pacific_US_Chapter_Health_Data.report
+FullName/Id: Pacific_US/Pacific_US_Chapter_Health_Data/00O61000003nOesEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laurie Cantagallo/00561000002DoyKAAS
+Last Modified By (Name/Id): Laurie Cantagallo/00561000002DoyKAAS
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/Pacific_US_All_Reg_Ofc_Include_Past.report
+FullName/Id: Pacific_US/Pacific_US_All_Reg_Ofc_Include_Past/00O610000042kejEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Conway/00561000002DoybAAC
+Last Modified By (Name/Id): Thomas Conway/00561000002DoybAAC
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/YPO_Chapter_Health_Metrics_Pacific_US.report
+FullName/Id: Pacific_US/YPO_Chapter_Health_Metrics_Pacific_US/00O610000042lcKEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/Global_Chapter_Health.report
+FullName/Id: Pacific_US/Global_Chapter_Health/00O610000049pWeEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laurie Cantagallo/00561000002DoyKAAS
+Last Modified By (Name/Id): Laurie Cantagallo/00561000002DoyKAAS
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/FY19_Regional_Officers_ID_Pacific_US.report
+FullName/Id: Pacific_US/FY19_Regional_Officers_ID_Pacific_US/00O610000042l0zEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/PACUS_Singapore_GLC_Attendees.report
+FullName/Id: Pacific_US/PACUS_Singapore_GLC_Attendees/00O6100000430ClEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Conway/00561000002DoybAAC
+Last Modified By (Name/Id): Thomas Conway/00561000002DoybAAC
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/FY18_Lifetime_Members_Pacific_US.report
+FullName/Id: Pacific_US/FY18_Lifetime_Members_Pacific_US/00O61000004ELPZEA4
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Pacific_US/FY19_Officer_Attd_CLW_America_Pacific_US.report
+FullName/Id: Pacific_US/FY19_Officer_Attd_CLW_America_Pacific_US/00O610000042mSuEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************

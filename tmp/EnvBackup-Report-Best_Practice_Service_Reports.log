@@ -1,0 +1,200 @@
+************************************************************
+FileName: reports/Best_Practice_Service_Reports/Cases_Currently_Open_by_Priority.report
+FullName/Id: Best_Practice_Service_Reports/Cases_Currently_Open_by_Priority/00O610000011MhEEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Todd Reed/00561000000IfUJAA0
+Last Modified By (Name/Id): Todd Reed/00561000000IfUJAA0
+************************************************************
+************************************************************
+FileName: reports/Best_Practice_Service_Reports/Aged_Cases_by_Agent.report
+FullName/Id: Best_Practice_Service_Reports/Aged_Cases_by_Agent/00O610000011Mh2EAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Todd Reed/00561000000IfUJAA0
+Last Modified By (Name/Id): Todd Reed/00561000000IfUJAA0
+************************************************************
+************************************************************
+FileName: reports/Best_Practice_Service_Reports/Cases_Closed_MTD.report
+FullName/Id: Best_Practice_Service_Reports/Cases_Closed_MTD/00O610000011Mh7EAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Todd Reed/00561000000IfUJAA0
+Last Modified By (Name/Id): Todd Reed/00561000000IfUJAA0
+************************************************************
+************************************************************
+FileName: reports/Best_Practice_Service_Reports/Cases_by_Priority.report
+FullName/Id: Best_Practice_Service_Reports/Cases_by_Priority/00O610000011MhIEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Todd Reed/00561000000IfUJAA0
+Last Modified By (Name/Id): Todd Reed/00561000000IfUJAA0
+************************************************************
+************************************************************
+FileName: reports/Best_Practice_Service_Reports/Cases_by_Origin_and_Open_Status.report
+FullName/Id: Best_Practice_Service_Reports/Cases_by_Origin_and_Open_Status/00O610000011MhHEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Todd Reed/00561000000IfUJAA0
+Last Modified By (Name/Id): Todd Reed/00561000000IfUJAA0
+************************************************************
+************************************************************
+FileName: reports/Best_Practice_Service_Reports/Cases_Currently_Open_by_Account.report
+FullName/Id: Best_Practice_Service_Reports/Cases_Currently_Open_by_Account/00O610000011MhBEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Todd Reed/00561000000IfUJAA0
+Last Modified By (Name/Id): Todd Reed/00561000000IfUJAA0
+************************************************************
+************************************************************
+FileName: reports/Best_Practice_Service_Reports/Cases_Closed_MTD_by_Agent.report
+FullName/Id: Best_Practice_Service_Reports/Cases_Closed_MTD_by_Agent/00O610000011Mh8EAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Todd Reed/00561000000IfUJAA0
+Last Modified By (Name/Id): Todd Reed/00561000000IfUJAA0
+************************************************************
+************************************************************
+FileName: reports/Best_Practice_Service_Reports/Cases_by_Type_and_Open_Status.report
+FullName/Id: Best_Practice_Service_Reports/Cases_by_Type_and_Open_Status/00O610000011MhJEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Todd Reed/00561000000IfUJAA0
+Last Modified By (Name/Id): Todd Reed/00561000000IfUJAA0
+************************************************************
+************************************************************
+FileName: reports/Best_Practice_Service_Reports/Average_Case_Resolution_Time_1.report
+FullName/Id: Best_Practice_Service_Reports/Average_Case_Resolution_Time_1/00O610000011Mh3EAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Todd Reed/00561000000IfUJAA0
+Last Modified By (Name/Id): Todd Reed/00561000000IfUJAA0
+************************************************************
+************************************************************
+FileName: reports/Best_Practice_Service_Reports/Cases_Currently_Open_by_Type.report
+FullName/Id: Best_Practice_Service_Reports/Cases_Currently_Open_by_Type/00O610000011MhFEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Todd Reed/00561000000IfUJAA0
+Last Modified By (Name/Id): Todd Reed/00561000000IfUJAA0
+************************************************************
+************************************************************
+FileName: reports/Best_Practice_Service_Reports/Trend_of_Case_Resolution_Time.report
+FullName/Id: Best_Practice_Service_Reports/Trend_of_Case_Resolution_Time/00O610000011MhMEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Todd Reed/00561000000IfUJAA0
+Last Modified By (Name/Id): Todd Reed/00561000000IfUJAA0
+************************************************************
+************************************************************
+FileName: reports/Best_Practice_Service_Reports/Top_10_Cases_by_Age.report
+FullName/Id: Best_Practice_Service_Reports/Top_10_Cases_by_Age/00O610000011MhLEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Todd Reed/00561000000IfUJAA0
+Last Modified By (Name/Id): Todd Reed/00561000000IfUJAA0
+************************************************************
+************************************************************
+FileName: reports/Best_Practice_Service_Reports/Case_Resolution_Time_MTD_by_Origin.report
+FullName/Id: Best_Practice_Service_Reports/Case_Resolution_Time_MTD_by_Origin/00O610000011Mh6EAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Todd Reed/00561000000IfUJAA0
+Last Modified By (Name/Id): Todd Reed/00561000000IfUJAA0
+************************************************************
+************************************************************
+FileName: reports/Best_Practice_Service_Reports/Trend_of_Cases_Closed.report
+FullName/Id: Best_Practice_Service_Reports/Trend_of_Cases_Closed/00O610000011MhNEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Todd Reed/00561000000IfUJAA0
+Last Modified By (Name/Id): Todd Reed/00561000000IfUJAA0
+************************************************************
+************************************************************
+FileName: reports/Best_Practice_Service_Reports/High_Priority_Open_Cases_by_Account.report
+FullName/Id: Best_Practice_Service_Reports/High_Priority_Open_Cases_by_Account/00O610000011MhKEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Todd Reed/00561000000IfUJAA0
+Last Modified By (Name/Id): Todd Reed/00561000000IfUJAA0
+************************************************************
+************************************************************
+FileName: reports/Best_Practice_Service_Reports/Cases_Currently_Open_by_Origin.report
+FullName/Id: Best_Practice_Service_Reports/Cases_Currently_Open_by_Origin/00O610000011MhDEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Todd Reed/00561000000IfUJAA0
+Last Modified By (Name/Id): Todd Reed/00561000000IfUJAA0
+************************************************************
+************************************************************
+FileName: reports/Best_Practice_Service_Reports/Cases_Currently_Open_by_Agent.report
+FullName/Id: Best_Practice_Service_Reports/Cases_Currently_Open_by_Agent/00O610000011MhCEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Todd Reed/00561000000IfUJAA0
+Last Modified By (Name/Id): Todd Reed/00561000000IfUJAA0
+************************************************************
+************************************************************
+FileName: reports/Best_Practice_Service_Reports/Average_Case_Resolution_Time_MTD.report
+FullName/Id: Best_Practice_Service_Reports/Average_Case_Resolution_Time_MTD/00O610000011Mh4EAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Todd Reed/00561000000IfUJAA0
+Last Modified By (Name/Id): Todd Reed/00561000000IfUJAA0
+************************************************************
+************************************************************
+FileName: reports/Best_Practice_Service_Reports/Cases_Created_MTD.report
+FullName/Id: Best_Practice_Service_Reports/Cases_Created_MTD/00O610000011Mh9EAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Todd Reed/00561000000IfUJAA0
+Last Modified By (Name/Id): Todd Reed/00561000000IfUJAA0
+************************************************************
+************************************************************
+FileName: reports/Best_Practice_Service_Reports/Cases_by_Origin.report
+FullName/Id: Best_Practice_Service_Reports/Cases_by_Origin/00O610000011MhGEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Todd Reed/00561000000IfUJAA0
+Last Modified By (Name/Id): Todd Reed/00561000000IfUJAA0
+************************************************************
+************************************************************
+FileName: reports/Best_Practice_Service_Reports/Aged_Cases_by_Account.report
+FullName/Id: Best_Practice_Service_Reports/Aged_Cases_by_Account/00O610000011Mh1EAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Todd Reed/00561000000IfUJAA0
+Last Modified By (Name/Id): Todd Reed/00561000000IfUJAA0
+************************************************************
+************************************************************
+FileName: reports/Best_Practice_Service_Reports/Age_of_Cases_Currently_Open_by_Type.report
+FullName/Id: Best_Practice_Service_Reports/Age_of_Cases_Currently_Open_by_Type/00O610000011Mh0EAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Todd Reed/00561000000IfUJAA0
+Last Modified By (Name/Id): Todd Reed/00561000000IfUJAA0
+************************************************************
+************************************************************
+FileName: reports/Best_Practice_Service_Reports/Trend_of_Cases_Created.report
+FullName/Id: Best_Practice_Service_Reports/Trend_of_Cases_Created/00O610000011MhOEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Todd Reed/00561000000IfUJAA0
+Last Modified By (Name/Id): Todd Reed/00561000000IfUJAA0
+************************************************************
+************************************************************
+FileName: reports/Best_Practice_Service_Reports/Avg_Case_Resolution_Time_MTD_by_Agen.report
+FullName/Id: Best_Practice_Service_Reports/Avg_Case_Resolution_Time_MTD_by_Agen/00O610000011Mh5EAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Todd Reed/00561000000IfUJAA0
+Last Modified By (Name/Id): Todd Reed/00561000000IfUJAA0
+************************************************************
+************************************************************
+FileName: reports/Best_Practice_Service_Reports/Cases_Currently_Open.report
+FullName/Id: Best_Practice_Service_Reports/Cases_Currently_Open/00O610000011MhAEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Todd Reed/00561000000IfUJAA0
+Last Modified By (Name/Id): Todd Reed/00561000000IfUJAA0
+************************************************************

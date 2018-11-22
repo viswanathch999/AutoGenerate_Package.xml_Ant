@@ -1,0 +1,112 @@
+************************************************************
+FileName: reports/VSTrackIT2__VSTrackIT/VSTrackIT2__Current_month_Opp.report
+FullName/Id: VSTrackIT2__VSTrackIT/VSTrackIT2__Current_month_Opp/00O61000003nGX5EAM
+Manageable State: installed
+Namespace Prefix: VSTrackIT2
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/VSTrackIT2__VSTrackIT/VSTrackIT2__Current_month_User_session_time.report
+FullName/Id: VSTrackIT2__VSTrackIT/VSTrackIT2__Current_month_User_session_time/00O61000003nGX6EAM
+Manageable State: installed
+Namespace Prefix: VSTrackIT2
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/VSTrackIT2__VSTrackIT/VSTrackIT2__Active.report
+FullName/Id: VSTrackIT2__VSTrackIT/VSTrackIT2__Active/00O61000003nGX4EAM
+Manageable State: installed
+Namespace Prefix: VSTrackIT2
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/VSTrackIT2__VSTrackIT/VSTrackIT2__User_current_month_usage_time.report
+FullName/Id: VSTrackIT2__VSTrackIT/VSTrackIT2__User_current_month_usage_time/00O61000003nGXHEA2
+Manageable State: installed
+Namespace Prefix: VSTrackIT2
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/VSTrackIT2__VSTrackIT/VSTrackIT2__Current_moth_viewed_records_update_detai.report
+FullName/Id: VSTrackIT2__VSTrackIT/VSTrackIT2__Current_moth_viewed_records_update_detai/00O61000003nGXCEA2
+Manageable State: installed
+Namespace Prefix: VSTrackIT2
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/VSTrackIT2__VSTrackIT/VSTrackIT2__Current_month_leads_viewed_records.report
+FullName/Id: VSTrackIT2__VSTrackIT/VSTrackIT2__Current_month_leads_viewed_records/00O61000003nGXAEA2
+Manageable State: installed
+Namespace Prefix: VSTrackIT2
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/VSTrackIT2__VSTrackIT/VSTrackIT2__Current_month_leads_viewed_by_user.report
+FullName/Id: VSTrackIT2__VSTrackIT/VSTrackIT2__Current_month_leads_viewed_by_user/00O61000003nGX9EAM
+Manageable State: installed
+Namespace Prefix: VSTrackIT2
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/VSTrackIT2__VSTrackIT/VSTrackIT2__Current_month_cases_viewed_by_user.report
+FullName/Id: VSTrackIT2__VSTrackIT/VSTrackIT2__Current_month_cases_viewed_by_user/00O61000003nGX7EAM
+Manageable State: installed
+Namespace Prefix: VSTrackIT2
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/VSTrackIT2__VSTrackIT/VSTrackIT2__Current_month_opportunity_viewed_by_user.report
+FullName/Id: VSTrackIT2__VSTrackIT/VSTrackIT2__Current_month_opportunity_viewed_by_user/00O61000003nGXBEA2
+Manageable State: installed
+Namespace Prefix: VSTrackIT2
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/VSTrackIT2__VSTrackIT/VSTrackIT2__Over_all_SFDC.report
+FullName/Id: VSTrackIT2__VSTrackIT/VSTrackIT2__Over_all_SFDC/00O61000003nGXEEA2
+Manageable State: installed
+Namespace Prefix: VSTrackIT2
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/VSTrackIT2__VSTrackIT/VSTrackIT2__User_current_month_usage_by_user.report
+FullName/Id: VSTrackIT2__VSTrackIT/VSTrackIT2__User_current_month_usage_by_user/00O61000003nGXGEA2
+Manageable State: installed
+Namespace Prefix: VSTrackIT2
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/VSTrackIT2__VSTrackIT/VSTrackIT2__Current_month_cases_viewed_records.report
+FullName/Id: VSTrackIT2__VSTrackIT/VSTrackIT2__Current_month_cases_viewed_records/00O61000003nGX8EAM
+Manageable State: installed
+Namespace Prefix: VSTrackIT2
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/VSTrackIT2__VSTrackIT/VSTrackIT2__Online_Users.report
+FullName/Id: VSTrackIT2__VSTrackIT/VSTrackIT2__Online_Users/00O61000003nGXDEA2
+Manageable State: installed
+Namespace Prefix: VSTrackIT2
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/VSTrackIT2__VSTrackIT/VSTrackIT2__Top_20_most_record_viewed_users.report
+FullName/Id: VSTrackIT2__VSTrackIT/VSTrackIT2__Top_20_most_record_viewed_users/00O61000003nGXFEA2
+Manageable State: installed
+Namespace Prefix: VSTrackIT2
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************

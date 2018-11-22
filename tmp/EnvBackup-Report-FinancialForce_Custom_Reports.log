@@ -1,0 +1,272 @@
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/A_R_Aging_As_Of_Now.report
+FullName/Id: FinancialForce_Custom_Reports/A_R_Aging_As_Of_Now/00O610000043DiKEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): Ted Poulos/00561000002jcyXAAQ
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/Migrated_Lifetime_Open_Balance_Total.report
+FullName/Id: FinancialForce_Custom_Reports/Migrated_Lifetime_Open_Balance_Total/00O610000049oUIEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Ted Poulos/00561000002jcyXAAQ
+Last Modified By (Name/Id): Ted Poulos/00561000002jcyXAAQ
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/Detailed_Transactions_by_Date.report
+FullName/Id: FinancialForce_Custom_Reports/Detailed_Transactions_by_Date/00O610000049oh2EAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thembi Butler/00561000002jd17AAA
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/FF_TB_Grid_Accts_to_Clear.report
+FullName/Id: FinancialForce_Custom_Reports/FF_TB_Grid_Accts_to_Clear/00O61000004EuUuEAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kimberly Curry/00561000003LPicAAG
+Last Modified By (Name/Id): Kimberly Curry/00561000003LPicAAG
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/Sales_Invoices_Grouped_By_Invoice.report
+FullName/Id: FinancialForce_Custom_Reports/Sales_Invoices_Grouped_By_Invoice/00O610000043DiXEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/Event_Journals.report
+FullName/Id: FinancialForce_Custom_Reports/Event_Journals/00O61000004EsyTEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Pearl Jackson/00561000001QT36AAG
+Last Modified By (Name/Id): Pearl Jackson/00561000001QT36AAG
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/Sales_Invoice_Dues_Recognition_Update.report
+FullName/Id: FinancialForce_Custom_Reports/Sales_Invoice_Dues_Recognition_Update/00O61000004E01WEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Ted Poulos/00561000002jcyXAAQ
+Last Modified By (Name/Id): Rhonda Stoddard/00561000002Dp3bAAC
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/Legacy_Transaction_Closed_Date_March_1.report
+FullName/Id: FinancialForce_Custom_Reports/Legacy_Transaction_Closed_Date_March_1/00O61000004E0SmEAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Ted Poulos/00561000002jcyXAAQ
+Last Modified By (Name/Id): Ted Poulos/00561000002jcyXAAQ
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/Cvent_Transactions_Tests.report
+FullName/Id: FinancialForce_Custom_Reports/Cvent_Transactions_Tests/00O61000004DyMmEAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Ted Poulos/00561000002jcyXAAQ
+Last Modified By (Name/Id): Ted Poulos/00561000002jcyXAAQ
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/Deferred_Dues_Recon.report
+FullName/Id: FinancialForce_Custom_Reports/Deferred_Dues_Recon/00O61000004Ek3UEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Rhonda Stoddard/00561000002Dp3bAAC
+Last Modified By (Name/Id): Rhonda Stoddard/00561000002Dp3bAAC
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/A_R_Aging_By_Period.report
+FullName/Id: FinancialForce_Custom_Reports/A_R_Aging_By_Period/00O61000004EtUUEA0
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kimberly Curry/00561000003LPicAAG
+Last Modified By (Name/Id): Kimberly Curry/00561000003LPicAAG
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/Purchase_Invoice_Details_Hedge_Mapping.report
+FullName/Id: FinancialForce_Custom_Reports/Purchase_Invoice_Details_Hedge_Mapping/00O610000043DiWEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/Sales_Invoices_With_Deleted_Invoices.report
+FullName/Id: FinancialForce_Custom_Reports/Sales_Invoices_With_Deleted_Invoices/00O61000004E0TVEA0
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Ted Poulos/00561000002jcyXAAQ
+Last Modified By (Name/Id): Ted Poulos/00561000002jcyXAAQ
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/General_Ledger_Accounts.report
+FullName/Id: FinancialForce_Custom_Reports/General_Ledger_Accounts/00O610000043DiPEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/A_P_Aging_As_of_Now1.report
+FullName/Id: FinancialForce_Custom_Reports/A_P_Aging_As_of_Now1/00O61000004EuJSEA0
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kimberly Curry/00561000003LPicAAG
+Last Modified By (Name/Id): Kimberly Curry/00561000003LPicAAG
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/April_Rev_Rec_Transactions.report
+FullName/Id: FinancialForce_Custom_Reports/April_Rev_Rec_Transactions/00O61000004EfCMEA0
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Ted Poulos/00561000002jcyXAAQ
+Last Modified By (Name/Id): Ted Poulos/00561000002jcyXAAQ
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/A_P_Aging_As_Of_Now.report
+FullName/Id: FinancialForce_Custom_Reports/A_P_Aging_As_Of_Now/00O610000043DiIEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): Ted Poulos/00561000002jcyXAAQ
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/General_Ledger_Details.report
+FullName/Id: FinancialForce_Custom_Reports/General_Ledger_Details/00O610000043DiQEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/Cvent_Transactions_Details.report
+FullName/Id: FinancialForce_Custom_Reports/Cvent_Transactions_Details/00O61000004E0e4EAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Pearl Jackson/00561000001QT36AAG
+Last Modified By (Name/Id): Pearl Jackson/00561000001QT36AAG
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/Chapter_Dues_Payable_Report.report
+FullName/Id: FinancialForce_Custom_Reports/Chapter_Dues_Payable_Report/00O610000043DiLEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/Sales_Invoices_With_Sales_Invoice_Line.report
+FullName/Id: FinancialForce_Custom_Reports/Sales_Invoices_With_Sales_Invoice_Line/00O610000049rJcEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Ted Poulos/00561000002jcyXAAQ
+Last Modified By (Name/Id): Ted Poulos/00561000002jcyXAAQ
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/GL_Detail_by_Dimension.report
+FullName/Id: FinancialForce_Custom_Reports/GL_Detail_by_Dimension/00O610000043DiOEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/Payable_Invoice_Outstanding_By_Currency.report
+FullName/Id: FinancialForce_Custom_Reports/Payable_Invoice_Outstanding_By_Currency/00O610000043DiREAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/Trial_Balance_Grid.report
+FullName/Id: FinancialForce_Custom_Reports/Trial_Balance_Grid/00O610000043DiYEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/GL_Details_by_Event.report
+FullName/Id: FinancialForce_Custom_Reports/GL_Details_by_Event/00O61000004EqTEEA0
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Pearl Jackson/00561000001QT36AAG
+Last Modified By (Name/Id): Pearl Jackson/00561000001QT36AAG
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/Paid_Invoices_Without_Closed_Date.report
+FullName/Id: FinancialForce_Custom_Reports/Paid_Invoices_Without_Closed_Date/00O61000004E0OBEA0
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Ted Poulos/00561000002jcyXAAQ
+Last Modified By (Name/Id): Ted Poulos/00561000002jcyXAAQ
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/Transactions_With_No_Closed_Date.report
+FullName/Id: FinancialForce_Custom_Reports/Transactions_With_No_Closed_Date/00O61000004E0RjEAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Ted Poulos/00561000002jcyXAAQ
+Last Modified By (Name/Id): Rhonda Stoddard/00561000002Dp3bAAC
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/Payable_Invoices.report
+FullName/Id: FinancialForce_Custom_Reports/Payable_Invoices/00O610000043DiSEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/Check_Payment_Details.report
+FullName/Id: FinancialForce_Custom_Reports/Check_Payment_Details/00O610000043DiMEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/FF_TB_Grid.report
+FullName/Id: FinancialForce_Custom_Reports/FF_TB_Grid/00O610000043DiNEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/Sales_Invoices_Containing_MultiYearProd.report
+FullName/Id: FinancialForce_Custom_Reports/Sales_Invoices_Containing_MultiYearProd/00O61000004ERvbEAG
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Ted Poulos/00561000002jcyXAAQ
+Last Modified By (Name/Id): Ted Poulos/00561000002jcyXAAQ
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/Payments_With_Payable_Invoice_Expense.report
+FullName/Id: FinancialForce_Custom_Reports/Payments_With_Payable_Invoice_Expense/00O610000043DiTEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/YPO_Products_With_Deferred_Revenue.report
+FullName/Id: FinancialForce_Custom_Reports/YPO_Products_With_Deferred_Revenue/00O610000043DiZEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/FinancialForce_Custom_Reports/A_P_Aging_As_Of_Now_Hedge_Values_Filled.report
+FullName/Id: FinancialForce_Custom_Reports/A_P_Aging_As_Of_Now_Hedge_Values_Filled/00O610000043DiJEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************

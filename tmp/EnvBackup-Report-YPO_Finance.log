@@ -1,0 +1,304 @@
+************************************************************
+FileName: reports/YPO_Finance/NMV_Available.report
+FullName/Id: YPO_Finance/NMV_Available/00O6100000461N0EAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Dean Shackelford/00561000002Dp3IAAS
+Last Modified By (Name/Id): Dean Shackelford/00561000002Dp3IAAS
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/FFV_FFVS_Issued.report
+FullName/Id: YPO_Finance/FFV_FFVS_Issued/00O61000004Epl2EAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Dean Shackelford/00561000002Dp3IAAS
+Last Modified By (Name/Id): Dean Shackelford/00561000002Dp3IAAS
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/Opportunities_with_Payment_Pending.report
+FullName/Id: YPO_Finance/Opportunities_with_Payment_Pending/00O610000045zlaEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Taylor Poppell/00561000002SlNbAAK
+Last Modified By (Name/Id): Taylor Poppell/00561000002SlNbAAK
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/Invoice_Items_with_GLs_Info.report
+FullName/Id: YPO_Finance/Invoice_Items_with_GLs_Info/00O6100000435CNEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/NMV_Used.report
+FullName/Id: YPO_Finance/NMV_Used/00O6100000461NeEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Dean Shackelford/00561000002Dp3IAAS
+Last Modified By (Name/Id): Dean Shackelford/00561000002Dp3IAAS
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/Item_03915_03916_03917_NMV.report
+FullName/Id: YPO_Finance/Item_03915_03916_03917_NMV/00O61000003pc77EAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Mike Sadigov/00561000001QblaAAC
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/Finance_Items_by_Product.report
+FullName/Id: YPO_Finance/Finance_Items_by_Product/00O61000003nKBWEA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Weslie Huston/00561000001QSaYAAW
+Last Modified By (Name/Id): Weslie Huston/00561000001QSaYAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/Item_03915_NMV_Issued_by_Month.report
+FullName/Id: YPO_Finance/Item_03915_NMV_Issued_by_Month/00O61000003peBrEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Mike Sadigov/00561000001QblaAAC
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/FFV_and_FFVS_Vouchers_Detailed.report
+FullName/Id: YPO_Finance/FFV_and_FFVS_Vouchers_Detailed/00O61000003nMDpEAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/Event_Registered_with_Voucher_Used_Flag.report
+FullName/Id: YPO_Finance/Event_Registered_with_Voucher_Used_Flag/00O610000042TjvEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/Finance_Product_Trans.report
+FullName/Id: YPO_Finance/Finance_Product_Trans/00O61000003nKAiEAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Weslie Huston/00561000001QSaYAAW
+Last Modified By (Name/Id): Weslie Huston/00561000001QSaYAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/Opportunities_with_Lifetime_Dues.report
+FullName/Id: YPO_Finance/Opportunities_with_Lifetime_Dues/00O610000045zlZEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Taylor Poppell/00561000002SlNbAAK
+Last Modified By (Name/Id): Taylor Poppell/00561000002SlNbAAK
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/Finance_Items_by_Product_TD1.report
+FullName/Id: YPO_Finance/Finance_Items_by_Product_TD1/00O610000042xfuEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Taylor Danielson/00561000002DoyiAAC
+Last Modified By (Name/Id): Taylor Danielson/00561000002DoyiAAC
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/Item_03833_FFV_and_FFVS_Vouchers.report
+FullName/Id: YPO_Finance/Item_03833_FFV_and_FFVS_Vouchers/00O61000003mhQKEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/Item_02930_Chapter_Dues.report
+FullName/Id: YPO_Finance/Item_02930_Chapter_Dues/00O61000003q19mEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/TaylorDanielson_TransactionsInvoices.report
+FullName/Id: YPO_Finance/TaylorDanielson_TransactionsInvoices/00O610000042estEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/Products_and_Prices.report
+FullName/Id: YPO_Finance/Products_and_Prices/00O61000003nXjUEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Lynn Phillips/00561000000JTJQAA4
+Last Modified By (Name/Id): Lynn Phillips/00561000000JTJQAA4
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/Credit_Card_Transactions.report
+FullName/Id: YPO_Finance/Credit_Card_Transactions/00O61000003n4hpEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/Finance_Invoice_Items.report
+FullName/Id: YPO_Finance/Finance_Invoice_Items/00O61000003msVpEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Ty East/00561000001PrKTAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/NMV_by_Status_PJ.report
+FullName/Id: YPO_Finance/NMV_by_Status_PJ/00O61000003nYx3EAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Pearl Jackson/00561000001QT36AAG
+Last Modified By (Name/Id): Pearl Jackson/00561000001QT36AAG
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/Item_03918_NMW_Resigned_by_Month.report
+FullName/Id: YPO_Finance/Item_03918_NMW_Resigned_by_Month/00O61000003SUPNEA4
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Mike Sadigov/00561000001QblaAAC
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/Future_of_Vouchers.report
+FullName/Id: YPO_Finance/Future_of_Vouchers/00O610000042XKbEAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Dean Shackelford/00561000002Dp3IAAS
+Last Modified By (Name/Id): Dean Shackelford/00561000002Dp3IAAS
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/Finance_Invoice_Transactions.report
+FullName/Id: YPO_Finance/Finance_Invoice_Transactions/00O61000003msW4EAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Ty East/00561000001PrKTAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/Opportunity_Benefits.report
+FullName/Id: YPO_Finance/Opportunity_Benefits/00O610000045zlbEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Taylor Poppell/00561000002SlNbAAK
+Last Modified By (Name/Id): Taylor Poppell/00561000002SlNbAAK
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/Item_03916_NMV_Used_by_Month2.report
+FullName/Id: YPO_Finance/Item_03916_NMV_Used_by_Month2/00O61000003peCLEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Mike Sadigov/00561000001QblaAAC
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/Event_List2.report
+FullName/Id: YPO_Finance/Event_List2/00O61000004EfZ1EAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Pearl Jackson/00561000001QT36AAG
+Last Modified By (Name/Id): Pearl Jackson/00561000001QT36AAG
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/YNG_w_Contact_ID.report
+FullName/Id: YPO_Finance/YNG_w_Contact_ID/00O610000042zilEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Dayon Harris/00561000002btNHAAY
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/Finance_Bank_Trans.report
+FullName/Id: YPO_Finance/Finance_Bank_Trans/00O61000003nFA8EAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Weslie Huston/00561000001QSaYAAW
+Last Modified By (Name/Id): Weslie Huston/00561000001QSaYAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/NMV_Issued.report
+FullName/Id: YPO_Finance/NMV_Issued/00O6100000461MCEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Dean Shackelford/00561000002Dp3IAAS
+Last Modified By (Name/Id): Dean Shackelford/00561000002Dp3IAAS
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/Cvent_Discount_Details_by_Month.report
+FullName/Id: YPO_Finance/Cvent_Discount_Details_by_Month/00O61000001Zl33EAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/NMV_Expired.report
+FullName/Id: YPO_Finance/NMV_Expired/00O6100000461LxEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Dean Shackelford/00561000002Dp3IAAS
+Last Modified By (Name/Id): Dean Shackelford/00561000002Dp3IAAS
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/Item_03917_NMV_Expired_by_Month1.report
+FullName/Id: YPO_Finance/Item_03917_NMV_Expired_by_Month1/00O61000003peCQEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Mike Sadigov/00561000001QblaAAC
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/Finance_Bank_Transactions_TD.report
+FullName/Id: YPO_Finance/Finance_Bank_Transactions_TD/00O61000003nWqtEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Taylor Danielson/00561000002DoyiAAC
+Last Modified By (Name/Id): Taylor Danielson/00561000002DoyiAAC
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/Invoices_Juanita.report
+FullName/Id: YPO_Finance/Invoices_Juanita/00O610000045xTJEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/Lifetime_Invoice_Items.report
+FullName/Id: YPO_Finance/Lifetime_Invoice_Items/00O6100000436KJEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/Item_03914_NMW_Available_by_Month.report
+FullName/Id: YPO_Finance/Item_03914_NMW_Available_by_Month/00O61000003SUPcEAO
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Mike Sadigov/00561000001QblaAAC
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/Lifetime_Transactions.report
+FullName/Id: YPO_Finance/Lifetime_Transactions/00O610000043CPZEA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Rhonda Stoddard/00561000002Dp3bAAC
+Last Modified By (Name/Id): Rhonda Stoddard/00561000002Dp3bAAC
+************************************************************
+************************************************************
+FileName: reports/YPO_Finance/Transaction_History.report
+FullName/Id: YPO_Finance/Transaction_History/00O6100000460fXEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+Last Modified By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+************************************************************

@@ -1,0 +1,440 @@
+************************************************************
+FileName: reports/YPO_Admin/Backlog_Summary.report
+FullName/Id: YPO_Admin/Backlog_Summary/00O610000045yPhEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Member_Counts_by_Chapter.report
+FullName/Id: YPO_Admin/Member_Counts_by_Chapter/00O610000045y2TEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Exceptions_Status_vs_Chapter_Approval.report
+FullName/Id: YPO_Admin/Exceptions_Status_vs_Chapter_Approval/00O610000042s0NEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Item_03105_Renewal_Stats_by_Tenure.report
+FullName/Id: YPO_Admin/Item_03105_Renewal_Stats_by_Tenure/00O610000045zloEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Taylor Poppell/00561000002SlNbAAK
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/SMTM_User_Report.report
+FullName/Id: YPO_Admin/SMTM_User_Report/00O61000004E5oEEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Item_03104_Renewal_Status_by_YPO_YPOGold.report
+FullName/Id: YPO_Admin/Item_03104_Renewal_Status_by_YPO_YPOGold/00O610000045zllEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Taylor Poppell/00561000002SlNbAAK
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/User_Accounts_by_Profile.report
+FullName/Id: YPO_Admin/User_Accounts_by_Profile/00O61000004EeQcEAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Profile_Completion_DB.report
+FullName/Id: YPO_Admin/Profile_Completion_DB/00O610000042j96EAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Users_with_Contact_Numbers.report
+FullName/Id: YPO_Admin/Users_with_Contact_Numbers/00O610000046374EAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/YPO_Gold_Renewal_Stats_by_Gender.report
+FullName/Id: YPO_Admin/YPO_Gold_Renewal_Stats_by_Gender/00O610000045zluEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Taylor Poppell/00561000002SlNbAAK
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Completed_Payment_DB.report
+FullName/Id: YPO_Admin/Completed_Payment_DB/00O610000045zleEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Taylor Poppell/00561000002SlNbAAK
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Item_03104_Renewal_Status_by_YPO.report
+FullName/Id: YPO_Admin/Item_03104_Renewal_Status_by_YPO/00O610000045zljEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Taylor Poppell/00561000002SlNbAAK
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Active_Salesforce_Users.report
+FullName/Id: YPO_Admin/Active_Salesforce_Users/00O61000003nEDpEAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Production_Issues_Open.report
+FullName/Id: YPO_Admin/Production_Issues_Open/00O61000004DzMsEAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Active_Chapter_List.report
+FullName/Id: YPO_Admin/Active_Chapter_List/00O610000042NHvEAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Payment_Types.report
+FullName/Id: YPO_Admin/Payment_Types/00O610000045zlsEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Taylor Poppell/00561000002SlNbAAK
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Active_Users.report
+FullName/Id: YPO_Admin/Active_Users/00O610000042NHbEAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Primary_and_Secondary_Not_Renewed.report
+FullName/Id: YPO_Admin/Primary_and_Secondary_Not_Renewed/00O61000004638MEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Item_03105_Renewal_Stats_by_Trans_Stat.report
+FullName/Id: YPO_Admin/Item_03105_Renewal_Stats_by_Trans_Stat/00O610000045zlpEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Taylor Poppell/00561000002SlNbAAK
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Chapters_with_Addresses.report
+FullName/Id: YPO_Admin/Chapters_with_Addresses/00O61000004EWRHEA4
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Completed_Payment_YPO_Gold.report
+FullName/Id: YPO_Admin/Completed_Payment_YPO_Gold/00O610000045zlgEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Taylor Poppell/00561000002SlNbAAK
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Item_03104_Renewal_Status_by_YPOGold.report
+FullName/Id: YPO_Admin/Item_03104_Renewal_Status_by_YPOGold/00O610000045zlkEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Taylor Poppell/00561000002SlNbAAK
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Completed_Payment_YPO.report
+FullName/Id: YPO_Admin/Completed_Payment_YPO/00O610000045zlfEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Taylor Poppell/00561000002SlNbAAK
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Reports_Created_by_Date_Range.report
+FullName/Id: YPO_Admin/Reports_Created_by_Date_Range/00O61000003nEghEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Dissolved_Networks_with_Active_Act_Affi.report
+FullName/Id: YPO_Admin/Dissolved_Networks_with_Active_Act_Affi/00O610000046WzJEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Item_03110_Renewal_Stats_by_SuperRegion.report
+FullName/Id: YPO_Admin/Item_03110_Renewal_Stats_by_SuperRegion/00O610000045zlrEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Taylor Poppell/00561000002SlNbAAK
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Item_03104_Cert_Type_by_Cert_Status.report
+FullName/Id: YPO_Admin/Item_03104_Cert_Type_by_Cert_Status/00O610000045zliEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Taylor Poppell/00561000002SlNbAAK
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Interests_from_Contact_Skill_Option.report
+FullName/Id: YPO_Admin/Interests_from_Contact_Skill_Option/00O610000043DKkEAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Payment_Error.report
+FullName/Id: YPO_Admin/Payment_Error/00O610000042qXoEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/FY18_Members_Not_Renewed.report
+FullName/Id: YPO_Admin/FY18_Members_Not_Renewed/00O6100000465zOEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Unidentified_Unapplied_For_Analytics.report
+FullName/Id: YPO_Admin/Unidentified_Unapplied_For_Analytics/00O610000049s1PEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Hung Bui/00561000001hWrwAAE
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/X7211_PendingResignedInNetwork.report
+FullName/Id: YPO_Admin/X7211_PendingResignedInNetwork/00O610000042bJyEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Business_AAs_with_Country_Info.report
+FullName/Id: YPO_Admin/Business_AAs_with_Country_Info/00O61000001ZZJJEA4
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Open_Invoice_Status_with_Closed_Won_Opps.report
+FullName/Id: YPO_Admin/Open_Invoice_Status_with_Closed_Won_Opps/00O610000043AaaEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Certification_by_Day.report
+FullName/Id: YPO_Admin/Certification_by_Day/00O610000045zlcEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Taylor Poppell/00561000002SlNbAAK
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Login_Count_s_for_CCs.report
+FullName/Id: YPO_Admin/Login_Count_s_for_CCs/00O610000045y74EAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Child_between_18_29.report
+FullName/Id: YPO_Admin/Child_between_18_29/00O6100000465z9EAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Login_Counts_for_CMOs.report
+FullName/Id: YPO_Admin/Login_Counts_for_CMOs/00O610000045y2JEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Chapter_Projection.report
+FullName/Id: YPO_Admin/Chapter_Projection/00O610000045zldEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Taylor Poppell/00561000002SlNbAAK
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/CMO_from_CA_Settings_with_User_Info.report
+FullName/Id: YPO_Admin/CMO_from_CA_Settings_with_User_Info/00O610000046IErEAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Payments_by_Day.report
+FullName/Id: YPO_Admin/Payments_by_Day/00O610000045zltEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Taylor Poppell/00561000002SlNbAAK
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Children_Without_Chapter_Accounts.report
+FullName/Id: YPO_Admin/Children_Without_Chapter_Accounts/00O610000042SU1EAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/CAs_Settings_with_User_Account_Info.report
+FullName/Id: YPO_Admin/CAs_Settings_with_User_Account_Info/00O61000004EeN9EAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Item7056_Qualification_Fields.report
+FullName/Id: YPO_Admin/Item7056_Qualification_Fields/00O610000042Z6bEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Item_03105_Renewal_Stats_35_y_o.report
+FullName/Id: YPO_Admin/Item_03105_Renewal_Stats_35_y_o/00O610000045zlmEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Taylor Poppell/00561000002SlNbAAK
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Item_03105_Renewal_Stats_by_Gender.report
+FullName/Id: YPO_Admin/Item_03105_Renewal_Stats_by_Gender/00O610000045zlnEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Taylor Poppell/00561000002SlNbAAK
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Item_03106_Member_Benefits.report
+FullName/Id: YPO_Admin/Item_03106_Member_Benefits/00O610000045zlqEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Taylor Poppell/00561000002SlNbAAK
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Dataload_Update_Stage_to_Cycle_Open.report
+FullName/Id: YPO_Admin/Dataload_Update_Stage_to_Cycle_Open/00O610000049pOuEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Login_Counts_for_CA_CMO.report
+FullName/Id: YPO_Admin/Login_Counts_for_CA_CMO/00O610000045xzjEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/FFV_FFVS_voucher_validations.report
+FullName/Id: YPO_Admin/FFV_FFVS_voucher_validations/00O610000042WWbEAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Prospects_with_extra_opps_FY19.report
+FullName/Id: YPO_Admin/Prospects_with_extra_opps_FY19/00O610000042qyuEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Item_02927_Renewals_by_Region_Chapter.report
+FullName/Id: YPO_Admin/Item_02927_Renewals_by_Region_Chapter/00O610000045zlhEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Taylor Poppell/00561000002SlNbAAK
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/YPO_Renewal_Stats_by_Gender.report
+FullName/Id: YPO_Admin/YPO_Renewal_Stats_by_Gender/00O610000045zlvEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Taylor Poppell/00561000002SlNbAAK
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Members_Joined_after_Feb1_without_CommPr.report
+FullName/Id: YPO_Admin/Members_Joined_after_Feb1_without_CommPr/00O610000045y24EAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Admin/Active_Members_E_Commerce_Emails.report
+FullName/Id: YPO_Admin/Active_Members_E_Commerce_Emails/00O61000004EDLZEA4
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************

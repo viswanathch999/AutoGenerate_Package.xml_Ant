@@ -1,0 +1,128 @@
+************************************************************
+FileName: reports/Membership_Month_End_Reports/Duplicate_Invoices_for_Deletion_TC.report
+FullName/Id: Membership_Month_End_Reports/Duplicate_Invoices_for_Deletion_TC/00O610000043C5yEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/Membership_Month_End_Reports/YPO_Month_End_Detailed_Roster.report
+FullName/Id: Membership_Month_End_Reports/YPO_Month_End_Detailed_Roster/00O610000042ncvEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shola Ogunrayi/00561000002ENj2AAG
+Last Modified By (Name/Id): Shola Ogunrayi/00561000002ENj2AAG
+************************************************************
+************************************************************
+FileName: reports/Membership_Month_End_Reports/New_Members_by_Chapter1.report
+FullName/Id: Membership_Month_End_Reports/New_Members_by_Chapter1/00O610000042vgvEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shola Ogunrayi/00561000002ENj2AAG
+Last Modified By (Name/Id): Shola Ogunrayi/00561000002ENj2AAG
+************************************************************
+************************************************************
+FileName: reports/Membership_Month_End_Reports/Active_Chapters_Listing.report
+FullName/Id: Membership_Month_End_Reports/Active_Chapters_Listing/00O610000042oBREAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shola Ogunrayi/00561000002ENj2AAG
+Last Modified By (Name/Id): Ike Irozuru/00561000001QT3QAAW
+************************************************************
+************************************************************
+FileName: reports/Membership_Month_End_Reports/Current_Resignation_List.report
+FullName/Id: Membership_Month_End_Reports/Current_Resignation_List/00O610000049p0iEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Ike Irozuru/00561000001QT3QAAW
+Last Modified By (Name/Id): Ike Irozuru/00561000001QT3QAAW
+************************************************************
+************************************************************
+FileName: reports/Membership_Month_End_Reports/Current_YPO_Board_Members.report
+FullName/Id: Membership_Month_End_Reports/Current_YPO_Board_Members/00O610000043BhcEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Ike Irozuru/00561000001QT3QAAW
+Last Modified By (Name/Id): Ike Irozuru/00561000001QT3QAAW
+************************************************************
+************************************************************
+FileName: reports/Membership_Month_End_Reports/New_Members_by_Region_YTD.report
+FullName/Id: Membership_Month_End_Reports/New_Members_by_Region_YTD/00O610000042zqGEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Patrick Ranger/00561000002dPg9AAE
+Last Modified By (Name/Id): Patrick Ranger/00561000002dPg9AAE
+************************************************************
+************************************************************
+FileName: reports/Membership_Month_End_Reports/Entrepreneur_Insights_Report.report
+FullName/Id: Membership_Month_End_Reports/Entrepreneur_Insights_Report/00O6100000439i9EAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Greg Hill/00561000002DozNAAS
+Last Modified By (Name/Id): Greg Hill/00561000002DozNAAS
+************************************************************
+************************************************************
+FileName: reports/Membership_Month_End_Reports/YPO_Member_Companies.report
+FullName/Id: Membership_Month_End_Reports/YPO_Member_Companies/00O610000042mWmEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Ike Irozuru/00561000001QT3QAAW
+Last Modified By (Name/Id): Ike Irozuru/00561000001QT3QAAW
+************************************************************
+************************************************************
+FileName: reports/Membership_Month_End_Reports/Champion_Development.report
+FullName/Id: Membership_Month_End_Reports/Champion_Development/00O610000042pm4EAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shola Ogunrayi/00561000002ENj2AAG
+Last Modified By (Name/Id): Shola Ogunrayi/00561000002ENj2AAG
+************************************************************
+************************************************************
+FileName: reports/Membership_Month_End_Reports/Former_Member_Listing.report
+FullName/Id: Membership_Month_End_Reports/Former_Member_Listing/00O610000042neIEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shola Ogunrayi/00561000002ENj2AAG
+Last Modified By (Name/Id): Shola Ogunrayi/00561000002ENj2AAG
+************************************************************
+************************************************************
+FileName: reports/Membership_Month_End_Reports/Current_Product_Pricing.report
+FullName/Id: Membership_Month_End_Reports/Current_Product_Pricing/00O610000049p5JEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Ike Irozuru/00561000001QT3QAAW
+Last Modified By (Name/Id): Denise Cromartie/00561000001QTGKAA4
+************************************************************
+************************************************************
+FileName: reports/Membership_Month_End_Reports/Contacts_Active_and_Primary_Chapter_AF.report
+FullName/Id: Membership_Month_End_Reports/Contacts_Active_and_Primary_Chapter_AF/00O61000004EPqjEAG
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shola Ogunrayi/00561000002ENj2AAG
+Last Modified By (Name/Id): Shola Ogunrayi/00561000002ENj2AAG
+************************************************************
+************************************************************
+FileName: reports/Membership_Month_End_Reports/Renewals_FY18_19_Active_Member_List.report
+FullName/Id: Membership_Month_End_Reports/Renewals_FY18_19_Active_Member_List/00O610000049sQ0EAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Ike Irozuru/00561000001QT3QAAW
+Last Modified By (Name/Id): Ike Irozuru/00561000001QT3QAAW
+************************************************************
+************************************************************
+FileName: reports/Membership_Month_End_Reports/Current_Member_Opportunities_Listing.report
+FullName/Id: Membership_Month_End_Reports/Current_Member_Opportunities_Listing/00O610000042qD5EAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shola Ogunrayi/00561000002ENj2AAG
+Last Modified By (Name/Id): Ike Irozuru/00561000001QT3QAAW
+************************************************************
+************************************************************
+FileName: reports/Membership_Month_End_Reports/Current_Member_Listing.report
+FullName/Id: Membership_Month_End_Reports/Current_Member_Listing/00O610000042ne8EAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shola Ogunrayi/00561000002ENj2AAG
+Last Modified By (Name/Id): Shola Ogunrayi/00561000002ENj2AAG
+************************************************************

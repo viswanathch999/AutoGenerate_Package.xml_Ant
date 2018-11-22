@@ -1,0 +1,584 @@
+************************************************************
+FileName: reports/Partner_Reports/Chap06_Moderators_FMLD_trained_CA.report
+FullName/Id: Partner_Reports/Chap06_Moderators_FMLD_trained_CA/00O610000046LvtEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Chap08_Members_without_Forum_TrainingCA.report
+FullName/Id: Partner_Reports/Chap08_Members_without_Forum_TrainingCA/00O610000046LxLEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/contact_records_with_no_account.report
+FullName/Id: Partner_Reports/contact_records_with_no_account/00O61000004EM7qEAG
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Michelle Moore/00561000002CiOzAAK
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Chap01A_Forum_Membership_for_CA.report
+FullName/Id: Partner_Reports/Chap01A_Forum_Membership_for_CA/00O610000046LtJEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/RSR.report
+FullName/Id: Partner_Reports/RSR/00O61000004E02PEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/YPO_Board_of_Directors_Current.report
+FullName/Id: Partner_Reports/YPO_Board_of_Directors_Current/00O610000046VSdEAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Michelle Moore/00561000002CiOzAAK
+Last Modified By (Name/Id): Michelle Moore/00561000002CiOzAAK
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/YPO_SF_Gold_Chapter_Join_Date.report
+FullName/Id: Partner_Reports/YPO_SF_Gold_Chapter_Join_Date/00O61000003nXCBEA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Michelle Moore/00561000002CiOzAAK
+Last Modified By (Name/Id): Michelle Moore/00561000002CiOzAAK
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Number_of_Events_by_member_Toronto.report
+FullName/Id: Partner_Reports/Number_of_Events_by_member_Toronto/00O610000042fkmEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Lynn Phillips/00561000000JTJQAA4
+Last Modified By (Name/Id): Lynn Phillips/00561000000JTJQAA4
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Chapter_Health_YoY.report
+FullName/Id: Partner_Reports/Chapter_Health_YoY/00O61000003nASREA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Ajay Joshi/00561000001buuUAAQ
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/ProfileCompletionbyMember.report
+FullName/Id: Partner_Reports/ProfileCompletionbyMember/00O61000003msZiEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Brandon Sherman/00561000001uIe1AAE
+Last Modified By (Name/Id): Brandon Sherman/00561000001uIe1AAE
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Primary_and_Secondary_Member_Not_Renewed.report
+FullName/Id: Partner_Reports/Primary_and_Secondary_Member_Not_Renewed/00O6100000466LoEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Outgoing_Chapter_Transitions.report
+FullName/Id: Partner_Reports/Outgoing_Chapter_Transitions/00O61000004ESBtEAO
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Susan Wheeler/00561000002EIpFAAW
+Last Modified By (Name/Id): Susan Wheeler/00561000002EIpFAAW
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Members_not_yet_Renewed.report
+FullName/Id: Partner_Reports/Members_not_yet_Renewed/00O6100000460yZEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Lynn Phillips/00561000000JTJQAA4
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Event_Participation_by_Chapter.report
+FullName/Id: Partner_Reports/Event_Participation_by_Chapter/00O61000004Ei4uEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laurie Cantagallo/00561000002DoyKAAS
+Last Modified By (Name/Id): Laurie Cantagallo/00561000002DoyKAAS
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/SEC_S7G_Renewal_Report.report
+FullName/Id: Partner_Reports/SEC_S7G_Renewal_Report/00O61000004EIlNEAW
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Karen Wing/00561000002DozYAAS
+Last Modified By (Name/Id): Karen Wing/00561000002DozYAAS
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Michelle_test.report
+FullName/Id: Partner_Reports/Michelle_test/00O610000042MtyEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Michelle Moore/00561000002CiOzAAK
+Last Modified By (Name/Id): Michelle Moore/00561000002CiOzAAK
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/New_Profile_Completion_Report.report
+FullName/Id: Partner_Reports/New_Profile_Completion_Report/00O610000043EEnEAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Gold_Addresses.report
+FullName/Id: Partner_Reports/Gold_Addresses/00O61000004EWy6EAG
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Michelle Moore/00561000002CiOzAAK
+Last Modified By (Name/Id): Michelle Moore/00561000002CiOzAAK
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Chapter_Roster_Spouse_In_Networks.report
+FullName/Id: Partner_Reports/Chapter_Roster_Spouse_In_Networks/00O61000003nE49EAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/EDGE_profile_pictures.report
+FullName/Id: Partner_Reports/EDGE_profile_pictures/00O6100000433VXEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Michelle Moore/00561000002CiOzAAK
+Last Modified By (Name/Id): Michelle Moore/00561000002CiOzAAK
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Item_02756_and_Item_03985.report
+FullName/Id: Partner_Reports/Item_02756_and_Item_03985/00O61000003SZenEAG
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Grace_or_Grace_Extension_Requests_NextFY.report
+FullName/Id: Partner_Reports/Grace_or_Grace_Extension_Requests_NextFY/00O6100000460yUEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Item_02856.report
+FullName/Id: Partner_Reports/Item_02856/00O61000003mihYEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Dawn Kent/005610000022ex6AAA
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/YPO_Madrid_membership_history.report
+FullName/Id: Partner_Reports/YPO_Madrid_membership_history/00O610000046LjdEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Michelle Moore/00561000002CiOzAAK
+Last Modified By (Name/Id): Michelle Moore/00561000002CiOzAAK
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Chapter_Roster_Vouchers.report
+FullName/Id: Partner_Reports/Chapter_Roster_Vouchers/00O61000003mlmqEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Chapter_Dues_Collected_by_YPOL.report
+FullName/Id: Partner_Reports/Chapter_Dues_Collected_by_YPOL/00O6100000460yjEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Chapter_Dues_Collected_by_the_Chapter.report
+FullName/Id: Partner_Reports/Chapter_Dues_Collected_by_the_Chapter/00O6100000460yoEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/members_without_cvent_ids.report
+FullName/Id: Partner_Reports/members_without_cvent_ids/00O610000042ttJEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Michelle Moore/00561000002CiOzAAK
+Last Modified By (Name/Id): Michelle Moore/00561000002CiOzAAK
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Chap03_Members_in_non_chapter_forums_CA.report
+FullName/Id: Partner_Reports/Chap03_Members_in_non_chapter_forums_CA/00O610000046Lv5EAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/X00O610000040Qn3.report
+FullName/Id: Partner_Reports/X00O610000040Qn3/00O610000042TTsEAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/child_no_account.report
+FullName/Id: Partner_Reports/child_no_account/00O61000004EM5QEAW
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Michelle Moore/00561000002CiOzAAK
+Last Modified By (Name/Id): Michelle Moore/00561000002CiOzAAK
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Chapter_Roster_Business_Information.report
+FullName/Id: Partner_Reports/Chapter_Roster_Business_Information/00O61000003n0EFEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Australia_Primary_CAs.report
+FullName/Id: Partner_Reports/Australia_Primary_CAs/00O610000042pM1EAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Michelle Moore/00561000002CiOzAAK
+Last Modified By (Name/Id): Michelle Moore/00561000002CiOzAAK
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Chap07_Moderators_NOT_FMLD_trained_CA.report
+FullName/Id: Partner_Reports/Chap07_Moderators_NOT_FMLD_trained_CA/00O610000046LwwEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Aparna_s_leads.report
+FullName/Id: Partner_Reports/Aparna_s_leads/00O610000046VoeEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Michelle Moore/00561000002CiOzAAK
+Last Modified By (Name/Id): Michelle Moore/00561000002CiOzAAK
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Y_Gold_Peru.report
+FullName/Id: Partner_Reports/Y_Gold_Peru/00O61000003nT9DEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Rosalinda Ponce de Leon/00561000002Dp2nAAC
+Last Modified By (Name/Id): Rosalinda Ponce de Leon/00561000002Dp2nAAC
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Chap09_Moderator_Contact_List_CA.report
+FullName/Id: Partner_Reports/Chap09_Moderator_Contact_List_CA/00O610000046LxzEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Surviving_S_P_chapter_AAs.report
+FullName/Id: Partner_Reports/Surviving_S_P_chapter_AAs/00O610000042v9NEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Michelle Moore/00561000002CiOzAAK
+Last Modified By (Name/Id): Michelle Moore/00561000002CiOzAAK
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Chapter_HealthDetail_DB.report
+FullName/Id: Partner_Reports/Chapter_HealthDetail_DB/00O61000003mu6oEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Brandon Sherman/00561000001uIe1AAE
+Last Modified By (Name/Id): Brandon Sherman/00561000001uIe1AAE
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Renewals_Setup_Report.report
+FullName/Id: Partner_Reports/Renewals_Setup_Report/00O6100000460yAEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/CA_Roster_for_Networks.report
+FullName/Id: Partner_Reports/CA_Roster_for_Networks/00O61000003miUeEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Chapter_Roster_Pref_Contact_Details.report
+FullName/Id: Partner_Reports/Chapter_Roster_Pref_Contact_Details/00O61000003nE3VEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Chap02_Members_NOT_in_Forum_CA.report
+FullName/Id: Partner_Reports/Chap02_Members_NOT_in_Forum_CA/00O610000046LubEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Chapter_Event_Participation_Calculations.report
+FullName/Id: Partner_Reports/Chapter_Event_Participation_Calculations/00O61000003nN90EAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Susan Wheeler/00561000002EIpFAAW
+Last Modified By (Name/Id): Susan Wheeler/00561000002EIpFAAW
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/New_SEC_Members1.report
+FullName/Id: Partner_Reports/New_SEC_Members1/00O610000042OiiEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Melinda Henrickson/00561000002DozMAAS
+Last Modified By (Name/Id): Melinda Henrickson/00561000002DozMAAS
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Michelle_Harbst_YPO_Dallas.report
+FullName/Id: Partner_Reports/Michelle_Harbst_YPO_Dallas/00O61000004EtbLEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Chapter_Roster_Listing.report
+FullName/Id: Partner_Reports/Chapter_Roster_Listing/00O61000003nE3GEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Lynn Phillips/00561000000JTJQAA4
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/GLC_profile_pictures.report
+FullName/Id: Partner_Reports/GLC_profile_pictures/00O6100000433VcEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Michelle Moore/00561000002CiOzAAK
+Last Modified By (Name/Id): Michelle Moore/00561000002CiOzAAK
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Chap01B_Forum_Moderators_by_Chapter_CA.report
+FullName/Id: Partner_Reports/Chap01B_Forum_Moderators_by_Chapter_CA/00O610000046LtxEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/View_Leads_of_Chapter_CA.report
+FullName/Id: Partner_Reports/View_Leads_of_Chapter_CA/00O610000046Mr4EAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/spouses.report
+FullName/Id: Partner_Reports/spouses/00O610000042rXpEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Michelle Moore/00561000002CiOzAAK
+Last Modified By (Name/Id): Data_Migration/00561000001Obe8AAC
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/YPO_Orlando_Orlando_Gold_Not_in_Networks1.report
+FullName/Id: Partner_Reports/YPO_Orlando_Orlando_Gold_Not_in_Networks1/00O610000042izkEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Chapter_Roster_Committee_Participation.report
+FullName/Id: Partner_Reports/Chapter_Roster_Committee_Participation/00O61000003n8UfEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Renewal_Report_All_Members_FY18.report
+FullName/Id: Partner_Reports/Renewal_Report_All_Members_FY18/00O61000004Dy86EAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Danny Smith/00561000002BqLRAA0
+Last Modified By (Name/Id): Danny Smith/00561000002BqLRAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/active_ex_spouse_partners.report
+FullName/Id: Partner_Reports/active_ex_spouse_partners/00O6100000430gcEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Michelle Moore/00561000002CiOzAAK
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Alpine_all_events.report
+FullName/Id: Partner_Reports/Alpine_all_events/00O61000004EOCiEAO
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Michelle Moore/00561000002CiOzAAK
+Last Modified By (Name/Id): Michelle Moore/00561000002CiOzAAK
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/SEC_S7G_Renewal_Report1.report
+FullName/Id: Partner_Reports/SEC_S7G_Renewal_Report1/00O61000004EIlXEAW
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Karen Wing/00561000002DozYAAS
+Last Modified By (Name/Id): Karen Wing/00561000002DozYAAS
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/X00O610000042aKb.report
+FullName/Id: Partner_Reports/X00O610000042aKb/00O610000042aKbEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/YPO_Florida_Gold_FY18_19_Paid_Members.report
+FullName/Id: Partner_Reports/YPO_Florida_Gold_FY18_19_Paid_Members/00O61000001ZmcEEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Karen Wing/00561000002DozYAAS
+Last Modified By (Name/Id): Karen Wing/00561000002DozYAAS
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Chapter_Roster_Member_with_Relations.report
+FullName/Id: Partner_Reports/Chapter_Roster_Member_with_Relations/00O61000003mz86EAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Elizabeth Simental/00561000002Dp3NAAS
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Spouse_Partner_Access_to_Exchange_Login1.report
+FullName/Id: Partner_Reports/Spouse_Partner_Access_to_Exchange_Login1/00O610000042dZMEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Susan Wheeler/00561000002EIpFAAW
+Last Modified By (Name/Id): Susan Wheeler/00561000002EIpFAAW
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Secondary_Members_Not_Renewed.report
+FullName/Id: Partner_Reports/Secondary_Members_Not_Renewed/00O6100000466ETEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/YPO_Florida_Gold_FY18_19_Renewal_Status.report
+FullName/Id: Partner_Reports/YPO_Florida_Gold_FY18_19_Renewal_Status/00O61000004EGBXEA4
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Karen Wing/00561000002DozYAAS
+Last Modified By (Name/Id): Karen Wing/00561000002DozYAAS
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/SEC_YPO_Southern_7_Report.report
+FullName/Id: Partner_Reports/SEC_YPO_Southern_7_Report/00O61000004EJLaEAO
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Karen Wing/00561000002DozYAAS
+Last Modified By (Name/Id): Karen Wing/00561000002DozYAAS
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/AustNZ_female_members.report
+FullName/Id: Partner_Reports/AustNZ_female_members/00O610000042r5qEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kate Parker/00561000002Dp1nAAC
+Last Modified By (Name/Id): Kate Parker/00561000002Dp1nAAC
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Chapter_Roster_Members_with_S_P_Info2.report
+FullName/Id: Partner_Reports/Chapter_Roster_Members_with_S_P_Info2/00O61000003nSG3EAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Welcome_Calls_Made_rev1.report
+FullName/Id: Partner_Reports/Welcome_Calls_Made_rev1/00O6100000467RxEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Lauren Lesch/00561000002Dp00AAC
+Last Modified By (Name/Id): Lauren Lesch/00561000002Dp00AAC
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Members_on_Grace_Current_FY.report
+FullName/Id: Partner_Reports/Members_on_Grace_Current_FY/00O6100000460yPEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Active_CA_Settings.report
+FullName/Id: Partner_Reports/Active_CA_Settings/00O61000004Eer9EAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Michelle Moore/00561000002CiOzAAK
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Renewals_Projection_ReportL.report
+FullName/Id: Partner_Reports/Renewals_Projection_ReportL/00O6100000460yKEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/YPO_Northeast_US_Regional_Directory2.report
+FullName/Id: Partner_Reports/YPO_Northeast_US_Regional_Directory2/00O61000004E0JfEAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shelva Suggs/00561000002Dp3eAAC
+Last Modified By (Name/Id): Shelva Suggs/00561000002Dp3eAAC
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Chapter_Roster_Web_Logins.report
+FullName/Id: Partner_Reports/Chapter_Roster_Web_Logins/00O61000003nE2wEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Partner_Reports/Barb_Frank_YPO_Aspen1.report
+FullName/Id: Partner_Reports/Barb_Frank_YPO_Aspen1/00O61000004EM8yEAG
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jaime Flemming/00561000002DoywAAC
+Last Modified By (Name/Id): Jaime Flemming/00561000002DoywAAC
+************************************************************

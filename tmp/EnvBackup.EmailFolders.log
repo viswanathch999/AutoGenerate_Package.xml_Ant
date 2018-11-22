@@ -1,0 +1,152 @@
+************************************************************
+FileName: email/alm_pm2__Bluewolf_ALM
+FullName/Id: alm_pm2__Bluewolf_ALM/00l61000000MlfoAAC
+Manageable State: installed
+Namespace Prefix: alm_pm2
+Created By (Name/Id): Lily Kubota/00561000000ImxXAAS
+Last Modified By (Name/Id): Lily Kubota/00561000000ImxXAAS
+************************************************************
+************************************************************
+FileName: email/KG_Emails
+FullName/Id: KG_Emails/00l61000000kwQQAAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kinetic Growth (YPO Prod)/00561000001NqIIAA0
+Last Modified By (Name/Id): Kinetic Growth (YPO Prod)/00561000001NqIIAA0
+************************************************************
+************************************************************
+FileName: email/FingerTip__Decision_Making
+FullName/Id: FingerTip__Decision_Making/00l61000000OLmZAAW
+Manageable State: installed
+Namespace Prefix: FingerTip
+Created By (Name/Id): Joe Aho/00561000002SXOVAA4
+Last Modified By (Name/Id): Joe Aho/00561000002SXOVAA4
+************************************************************
+************************************************************
+FileName: email/ffxp__ffdc5_emailTemplates
+FullName/Id: ffxp__ffdc5_emailTemplates/00l61000000bS2dAAE
+Manageable State: installed
+Namespace Prefix: ffxp
+Created By (Name/Id): TEMPORARY FF Onboarding Login/00561000002zrVwAAI
+Last Modified By (Name/Id): TEMPORARY FF Onboarding Login/00561000002zrVwAAI
+************************************************************
+************************************************************
+FileName: email/DocuSign
+FullName/Id: DocuSign/00l610000016bg1AAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: email/APXTConga4__Conga_Email_Staging_Templates
+FullName/Id: APXTConga4__Conga_Email_Staging_Templates/00l61000000OGnNAAW
+Manageable State: installed
+Namespace Prefix: APXTConga4
+Created By (Name/Id): Andrew Aasen/00561000001cqr9AAA
+Last Modified By (Name/Id): Andrew Aasen/00561000001cqr9AAA
+************************************************************
+************************************************************
+FileName: email/c2g__InvoiceAndCreditNoteEmailTemplates
+FullName/Id: c2g__InvoiceAndCreditNoteEmailTemplates/00l61000000bS2MAAU
+Manageable State: installed
+Namespace Prefix: c2g
+Created By (Name/Id): TEMPORARY FF Onboarding Login/00561000002zrVwAAI
+Last Modified By (Name/Id): TEMPORARY FF Onboarding Login/00561000002zrVwAAI
+************************************************************
+************************************************************
+FileName: email/alm_qa__Bluewolf_ALM
+FullName/Id: alm_qa__Bluewolf_ALM/00l61000000MlftAAC
+Manageable State: installed
+Namespace Prefix: alm_qa
+Created By (Name/Id): Lily Kubota/00561000000ImxXAAS
+Last Modified By (Name/Id): Lily Kubota/00561000000ImxXAAS
+************************************************************
+************************************************************
+FileName: email/Membership_Development
+FullName/Id: Membership_Development/00l61000000OKJ2AAO
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Lynn Phillips/00561000000JTJQAA4
+Last Modified By (Name/Id): Lynn Phillips/00561000000JTJQAA4
+************************************************************
+************************************************************
+FileName: email/c2g__BillingDocumentEmailTemplates
+FullName/Id: c2g__BillingDocumentEmailTemplates/00l610000016dbXAAQ
+Manageable State: installed
+Namespace Prefix: c2g
+Created By (Name/Id): TEMPORARY FF Onboarding Login/00561000002zrVwAAI
+Last Modified By (Name/Id): TEMPORARY FF Onboarding Login/00561000002zrVwAAI
+************************************************************
+************************************************************
+FileName: email/Welcome_Calls
+FullName/Id: Welcome_Calls/00l61000000OJpbAAG
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Lynn Phillips/00561000000JTJQAA4
+Last Modified By (Name/Id): Lynn Phillips/00561000000JTJQAA4
+************************************************************
+************************************************************
+FileName: email/ffbext__AccountsReceivableTemplates
+FullName/Id: ffbext__AccountsReceivableTemplates/00l61000000bS2QAAU
+Manageable State: installed
+Namespace Prefix: ffbext
+Created By (Name/Id): TEMPORARY FF Onboarding Login/00561000002zrVwAAI
+Last Modified By (Name/Id): TEMPORARY FF Onboarding Login/00561000002zrVwAAI
+************************************************************
+************************************************************
+FileName: email/Backlog_Items
+FullName/Id: Backlog_Items/00l61000000vdW1AAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: email/KGRenewal__KGRenewalEmailTemplates
+FullName/Id: KGRenewal__KGRenewalEmailTemplates/00l61000000bPVsAAM
+Manageable State: installed
+Namespace Prefix: KGRenewal
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: email/VSTrackIT2__VSTrackIT
+FullName/Id: VSTrackIT2__VSTrackIT/00l61000000OKW3AAO
+Manageable State: installed
+Namespace Prefix: VSTrackIT2
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: email/FingerTip__Decision_Email_Templates
+FullName/Id: FingerTip__Decision_Email_Templates/00l61000000OLmYAAW
+Manageable State: installed
+Namespace Prefix: FingerTip
+Created By (Name/Id): Joe Aho/00561000002SXOVAA4
+Last Modified By (Name/Id): Joe Aho/00561000002SXOVAA4
+************************************************************
+************************************************************
+FileName: email/Member_Services
+FullName/Id: Member_Services/00l61000000OJzHAAW
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kinetic Growth (YPO Prod)/00561000001NqIIAA0
+Last Modified By (Name/Id): Kinetic Growth (YPO Prod)/00561000001NqIIAA0
+************************************************************
+************************************************************
+FileName: unfiled$public
+FullName/Id: unfiled$public/
+Manageable State: unmanaged
+Namespace Prefix: 
+Created By (Name/Id): Viswanath Chereddy/005Z0000004CxIbIAK
+Last Modified By (Name/Id): Viswanath Chereddy/005Z0000004CxIbIAK
+************************************************************
+************************************************************
+FileName: email/FingerTip__FT
+FullName/Id: FingerTip__FT/00l61000000OLmaAAG
+Manageable State: installed
+Namespace Prefix: FingerTip
+Created By (Name/Id): Joe Aho/00561000002SXOVAA4
+Last Modified By (Name/Id): Joe Aho/00561000002SXOVAA4
+************************************************************

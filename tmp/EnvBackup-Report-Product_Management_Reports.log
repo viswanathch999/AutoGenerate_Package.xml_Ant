@@ -1,0 +1,232 @@
+************************************************************
+FileName: reports/Product_Management_Reports/Chapter_Dues_by_Month2.report
+FullName/Id: Product_Management_Reports/Chapter_Dues_by_Month2/00O61000003nNycEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Lynn Phillips/00561000000JTJQAA4
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Product_Management_Reports/CHM_DB_ContactPositionsElectbyRegion.report
+FullName/Id: Product_Management_Reports/CHM_DB_ContactPositionsElectbyRegion/00O61000003mu6qEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Brandon Sherman/00561000001uIe1AAE
+Last Modified By (Name/Id): Brandon Sherman/00561000001uIe1AAE
+************************************************************
+************************************************************
+FileName: reports/Product_Management_Reports/of_Events_by_Chapter_by_Qtr.report
+FullName/Id: Product_Management_Reports/of_Events_by_Chapter_by_Qtr/00O61000003nBwIEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Carolyn Keeling/00561000002DjPvAAK
+Last Modified By (Name/Id): Carolyn Keeling/00561000002DjPvAAK
+************************************************************
+************************************************************
+FileName: reports/Product_Management_Reports/Officer_Positions.report
+FullName/Id: Product_Management_Reports/Officer_Positions/00O61000003muPvEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Brandon Sherman/00561000001uIe1AAE
+Last Modified By (Name/Id): Brandon Sherman/00561000001uIe1AAE
+************************************************************
+************************************************************
+FileName: reports/Product_Management_Reports/Contact_Profile_Completion_Report_2.report
+FullName/Id: Product_Management_Reports/Contact_Profile_Completion_Report_2/00O61000003mu6zEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Brandon Sherman/00561000001uIe1AAE
+Last Modified By (Name/Id): Lynn Phillips/00561000000JTJQAA4
+************************************************************
+************************************************************
+FileName: reports/Product_Management_Reports/Lead_Stoplight_status.report
+FullName/Id: Product_Management_Reports/Lead_Stoplight_status/00O61000003nNzVEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Lynn Phillips/00561000000JTJQAA4
+Last Modified By (Name/Id): Lynn Phillips/00561000000JTJQAA4
+************************************************************
+************************************************************
+FileName: reports/Product_Management_Reports/Chapter_Health_Metrics_Detail_PM.report
+FullName/Id: Product_Management_Reports/Chapter_Health_Metrics_Detail_PM/00O61000003mu6yEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Brandon Sherman/00561000001uIe1AAE
+Last Modified By (Name/Id): Carolyn Keeling/00561000002DjPvAAK
+************************************************************
+************************************************************
+FileName: reports/Product_Management_Reports/Chapter_Dues_by_Month.report
+FullName/Id: Product_Management_Reports/Chapter_Dues_by_Month/00O61000003nNySEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Lynn Phillips/00561000000JTJQAA4
+Last Modified By (Name/Id): Lynn Phillips/00561000000JTJQAA4
+************************************************************
+************************************************************
+FileName: reports/Product_Management_Reports/NumberofMembersPerRegion_Canada.report
+FullName/Id: Product_Management_Reports/NumberofMembersPerRegion_Canada/00O61000003msZlEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Brandon Sherman/00561000001uIe1AAE
+Last Modified By (Name/Id): Brandon Sherman/00561000001uIe1AAE
+************************************************************
+************************************************************
+FileName: reports/Product_Management_Reports/CHM_DB_ofMemberswithCompleteProfile2.report
+FullName/Id: Product_Management_Reports/CHM_DB_ofMemberswithCompleteProfile2/00O61000003nCZ5EAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Carolyn Keeling/00561000002DjPvAAK
+Last Modified By (Name/Id): Carolyn Keeling/00561000002DjPvAAK
+************************************************************
+************************************************************
+FileName: reports/Product_Management_Reports/CHM_DB_ofPrimaryMembersinChapter1.report
+FullName/Id: Product_Management_Reports/CHM_DB_ofPrimaryMembersinChapter1/00O61000003nCciEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Carolyn Keeling/00561000002DjPvAAK
+Last Modified By (Name/Id): Carolyn Keeling/00561000002DjPvAAK
+************************************************************
+************************************************************
+FileName: reports/Product_Management_Reports/Contact_Profile_Completion_Report_DB.report
+FullName/Id: Product_Management_Reports/Contact_Profile_Completion_Report_DB/00O61000003msZkEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Brandon Sherman/00561000001uIe1AAE
+Last Modified By (Name/Id): Lynn Phillips/00561000000JTJQAA4
+************************************************************
+************************************************************
+FileName: reports/Product_Management_Reports/CHM_DB_ParticipationinMemberForum.report
+FullName/Id: Product_Management_Reports/CHM_DB_ParticipationinMemberForum/00O61000003mu6tEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Brandon Sherman/00561000001uIe1AAE
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Product_Management_Reports/CHM_DB_inCurrentYearEvents.report
+FullName/Id: Product_Management_Reports/CHM_DB_inCurrentYearEvents/00O61000003mu6uEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Brandon Sherman/00561000001uIe1AAE
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Product_Management_Reports/Contact_Profile_Completion_Detail_Report.report
+FullName/Id: Product_Management_Reports/Contact_Profile_Completion_Detail_Report/00O61000003msZjEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Brandon Sherman/00561000001uIe1AAE
+Last Modified By (Name/Id): Lynn Phillips/00561000000JTJQAA4
+************************************************************
+************************************************************
+FileName: reports/Product_Management_Reports/Prospects_Pending_Payments_by_Chapter2.report
+FullName/Id: Product_Management_Reports/Prospects_Pending_Payments_by_Chapter2/00O61000003nNzQEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Lynn Phillips/00561000000JTJQAA4
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Product_Management_Reports/CHM_DB_ChapterRetentionRate.report
+FullName/Id: Product_Management_Reports/CHM_DB_ChapterRetentionRate/00O61000003mu6pEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Brandon Sherman/00561000001uIe1AAE
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Product_Management_Reports/Prospect_Status.report
+FullName/Id: Product_Management_Reports/Prospect_Status/00O61000003nNzaEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Lynn Phillips/00561000000JTJQAA4
+Last Modified By (Name/Id): Lynn Phillips/00561000000JTJQAA4
+************************************************************
+************************************************************
+FileName: reports/Product_Management_Reports/CHM_DB_ofMemberswithCompleteProfile.report
+FullName/Id: Product_Management_Reports/CHM_DB_ofMemberswithCompleteProfile/00O61000003mu6vEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Brandon Sherman/00561000001uIe1AAE
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Product_Management_Reports/CHM_DB_ofPrimaryMembersinChapter.report
+FullName/Id: Product_Management_Reports/CHM_DB_ofPrimaryMembersinChapter/00O61000003mu6xEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Brandon Sherman/00561000001uIe1AAE
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Product_Management_Reports/Bronze_Chapters.report
+FullName/Id: Product_Management_Reports/Bronze_Chapters/00O61000003nAHTEA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Carolyn Keeling/00561000002DjPvAAK
+Last Modified By (Name/Id): Carolyn Keeling/00561000002DjPvAAK
+************************************************************
+************************************************************
+FileName: reports/Product_Management_Reports/ProfileCompletionbyMember_withAA.report
+FullName/Id: Product_Management_Reports/ProfileCompletionbyMember_withAA/00O61000003mu70EAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Brandon Sherman/00561000001uIe1AAE
+Last Modified By (Name/Id): Brandon Sherman/00561000001uIe1AAE
+************************************************************
+************************************************************
+FileName: reports/Product_Management_Reports/Platinum_Chapters.report
+FullName/Id: Product_Management_Reports/Platinum_Chapters/00O61000003nAIMEA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Carolyn Keeling/00561000002DjPvAAK
+Last Modified By (Name/Id): Carolyn Keeling/00561000002DjPvAAK
+************************************************************
+************************************************************
+FileName: reports/Product_Management_Reports/CHM_DB_MembersEligibletoGraduateNextYear.report
+FullName/Id: Product_Management_Reports/CHM_DB_MembersEligibletoGraduateNextYear/00O61000003mu6rEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Brandon Sherman/00561000001uIe1AAE
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Product_Management_Reports/Silver_Chapters.report
+FullName/Id: Product_Management_Reports/Silver_Chapters/00O61000003nACxEAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Carolyn Keeling/00561000002DjPvAAK
+Last Modified By (Name/Id): Carolyn Keeling/00561000002DjPvAAK
+************************************************************
+************************************************************
+FileName: reports/Product_Management_Reports/Chapter_Health_Metrics_by_Region1.report
+FullName/Id: Product_Management_Reports/Chapter_Health_Metrics_by_Region1/00O61000003nBtEEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Carolyn Keeling/00561000002DjPvAAK
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Product_Management_Reports/CHM_DB_NumberofEventsbyChapter.report
+FullName/Id: Product_Management_Reports/CHM_DB_NumberofEventsbyChapter/00O61000003mu6sEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Brandon Sherman/00561000001uIe1AAE
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Product_Management_Reports/CA_Settings_with_inactive_users.report
+FullName/Id: Product_Management_Reports/CA_Settings_with_inactive_users/00O61000003nNpuEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Lynn Phillips/00561000000JTJQAA4
+Last Modified By (Name/Id): Lynn Phillips/00561000000JTJQAA4
+************************************************************
+************************************************************
+FileName: reports/Product_Management_Reports/CHM_DB_ofNewMembersSinceJuly1st.report
+FullName/Id: Product_Management_Reports/CHM_DB_ofNewMembersSinceJuly1st/00O61000003mu6wEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Brandon Sherman/00561000001uIe1AAE
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************

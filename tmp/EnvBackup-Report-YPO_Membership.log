@@ -1,0 +1,1344 @@
+************************************************************
+FileName: reports/YPO_Membership/Membership_by_Country_Top_30.report
+FullName/Id: YPO_Membership/Membership_by_Country_Top_30/00O61000004EdeOEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/New_Member_Report_Summary.report
+FullName/Id: YPO_Membership/New_Member_Report_Summary/00O61000003nF6zEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/MembersbyGenderDB_TC2.report
+FullName/Id: YPO_Membership/MembersbyGenderDB_TC2/00O610000046ReVEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/New_Members_by_Region_Year_DB.report
+FullName/Id: YPO_Membership/New_Members_by_Region_Year_DB/00O61000004EVjFEAW
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/All_Member_Call_Listing.report
+FullName/Id: YPO_Membership/All_Member_Call_Listing/00O61000003nEL5EAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Waivers_Exception_Report_contacts.report
+FullName/Id: YPO_Membership/Waivers_Exception_Report_contacts/00O610000046YzaEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Justin Senato/00561000002Dp3GAAS
+Last Modified By (Name/Id): Justin Senato/00561000002Dp3GAAS
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Member_and_S_P_Listing.report
+FullName/Id: YPO_Membership/Member_and_S_P_Listing/00O610000042vGOEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/MembesbyOrganizationType_DBTC.report
+FullName/Id: YPO_Membership/MembesbyOrganizationType_DBTC/00O61000003nYu9EAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Current_Elect_Chapter_MOs_All_Regions.report
+FullName/Id: YPO_Membership/Current_Elect_Chapter_MOs_All_Regions/00O610000045ztxEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Dana Kobernusz/00561000001QTMrAAO
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/MembersbyScope_DBTC.report
+FullName/Id: YPO_Membership/MembersbyScope_DBTC/00O61000003naSlEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Members_without_vouchers.report
+FullName/Id: YPO_Membership/Members_without_vouchers/00O610000042nhlEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Members_Without_Business.report
+FullName/Id: YPO_Membership/Members_Without_Business/00O61000003nK7KEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Pending_Invoices_by_Create_Date.report
+FullName/Id: YPO_Membership/Pending_Invoices_by_Create_Date/00O61000003nRAsEAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Dana Kobernusz/00561000001QTMrAAO
+Last Modified By (Name/Id): Dana Kobernusz/00561000001QTMrAAO
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Healthwise_Activation_Report2.report
+FullName/Id: YPO_Membership/Healthwise_Activation_Report2/00O610000046AbdEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kay Almassy/00561000001QSpOAAW
+Last Modified By (Name/Id): Kay Almassy/00561000001QSpOAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/GoldMembersbyPresType2_DB.report
+FullName/Id: YPO_Membership/GoldMembersbyPresType2_DB/00O61000003nTd3EAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/New_SF_Founding_Members.report
+FullName/Id: YPO_Membership/New_SF_Founding_Members/00O61000003nYSjEAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Spouse_Partner_Listing.report
+FullName/Id: YPO_Membership/Spouse_Partner_Listing/00O6100000463S2EAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/MembersbyGenderDB_TC.report
+FullName/Id: YPO_Membership/MembersbyGenderDB_TC/00O61000003nYtfEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Opportunities_without_Title.report
+FullName/Id: YPO_Membership/Opportunities_without_Title/00O61000003nYKVEA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Dana Kobernusz/00561000001QTMrAAO
+Last Modified By (Name/Id): Dana Kobernusz/00561000001QTMrAAO
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/GoldMembersbyAgeGroup_DB.report
+FullName/Id: YPO_Membership/GoldMembersbyAgeGroup_DB/00O61000003nTVYEA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/New_Member_Kit_Send_to_CA.report
+FullName/Id: YPO_Membership/New_Member_Kit_Send_to_CA/00O61000003nKWBEA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Data_Quality_No_Grace_Avail.report
+FullName/Id: YPO_Membership/Data_Quality_No_Grace_Avail/00O61000003nX42EAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shola Ogunrayi/00561000002ENj2AAG
+Last Modified By (Name/Id): Shola Ogunrayi/00561000002ENj2AAG
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/new_members_by_region_kc.report
+FullName/Id: YPO_Membership/new_members_by_region_kc/00O6100000468rIEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kittu Chandok/00561000002DoyQAAS
+Last Modified By (Name/Id): Kittu Chandok/00561000002DoyQAAS
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Payments_in_CyberSource_But_Not_in_SF.report
+FullName/Id: YPO_Membership/Payments_in_CyberSource_But_Not_in_SF/00O610000042qn3EAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Members_with_Interests_by_Region.report
+FullName/Id: YPO_Membership/Members_with_Interests_by_Region/00O610000043EMDEA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/New_Members_By_Regions.report
+FullName/Id: YPO_Membership/New_Members_By_Regions/00O61000003nFoEEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Active_Members_YPO1.report
+FullName/Id: YPO_Membership/Active_Members_YPO1/00O610000042OpyEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jason Yeong/00561000001um7hAAA
+Last Modified By (Name/Id): Jason Yeong/00561000001um7hAAA
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/PM_New_Members_by_Region.report
+FullName/Id: YPO_Membership/PM_New_Members_by_Region/00O6100000468rDEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Paul Mishenin/00561000002Dp1PAAS
+Last Modified By (Name/Id): Paul Mishenin/00561000002Dp1PAAS
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/SF_Login_History.report
+FullName/Id: YPO_Membership/SF_Login_History/00O61000003nGe0EAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): System Administrator/00561000002DrZyAAK
+Last Modified By (Name/Id): System Administrator/00561000002DrZyAAK
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Members_with_Bus_AAs_by_Industry_Cat.report
+FullName/Id: YPO_Membership/Members_with_Bus_AAs_by_Industry_Cat/00O61000004EoVNEA0
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Members_by_Chapter_Region_Matrix.report
+FullName/Id: YPO_Membership/Members_by_Chapter_Region_Matrix/00O610000046C84EAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/PinnacleCare_List_with_Business.report
+FullName/Id: YPO_Membership/PinnacleCare_List_with_Business/00O610000042zV3EAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/New_Members_FY18_DB.report
+FullName/Id: YPO_Membership/New_Members_FY18_DB/00O61000004EdQCEA0
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/MOE_Activation_Report.report
+FullName/Id: YPO_Membership/MOE_Activation_Report/00O610000046AbnEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kay Almassy/00561000001QSpOAAW
+Last Modified By (Name/Id): Kay Almassy/00561000001QSpOAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Active_Members_for_STS_Activation.report
+FullName/Id: YPO_Membership/Active_Members_for_STS_Activation/00O61000004EnX8EAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kay Almassy/00561000001QSpOAAW
+Last Modified By (Name/Id): Kay Almassy/00561000001QSpOAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/SafeTravel_4th_Quarter_Fy17_18.report
+FullName/Id: YPO_Membership/SafeTravel_4th_Quarter_Fy17_18/00O61000004EnUxEAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kay Almassy/00561000001QSpOAAW
+Last Modified By (Name/Id): Kay Almassy/00561000001QSpOAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Canada_Female_Members_with_Business_Aff.report
+FullName/Id: YPO_Membership/Canada_Female_Members_with_Business_Aff/00O61000004EPAdEAO
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Dana Kobernusz/00561000001QTMrAAO
+Last Modified By (Name/Id): Dana Kobernusz/00561000001QTMrAAO
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Active_Members_by_Gender_by_Region_YPO.report
+FullName/Id: YPO_Membership/Active_Members_by_Gender_by_Region_YPO/00O610000042NmtEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jason Yeong/00561000001um7hAAA
+Last Modified By (Name/Id): Jason Yeong/00561000001um7hAAA
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Current_Chapter_Members_with_Past_Chapt.report
+FullName/Id: YPO_Membership/Current_Chapter_Members_with_Past_Chapt/00O61000001ZZu5EAG
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Accounts_by_Chapter_Dues_Contact_List.report
+FullName/Id: YPO_Membership/Accounts_by_Chapter_Dues_Contact_List/00O61000003nLAzEAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shola Ogunrayi/00561000002ENj2AAG
+Last Modified By (Name/Id): Shola Ogunrayi/00561000002ENj2AAG
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Item_02956_Reinstatements.report
+FullName/Id: YPO_Membership/Item_02956_Reinstatements/00O61000003SX6tEAG
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Join_Date_Missing.report
+FullName/Id: YPO_Membership/Join_Date_Missing/00O61000003naLLEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Denise Cromartie/00561000001QTGKAA4
+Last Modified By (Name/Id): Denise Cromartie/00561000001QTGKAA4
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Tatiana_Renewals_Report.report
+FullName/Id: YPO_Membership/Tatiana_Renewals_Report/00O6100000465mjEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/CEO_Members_who_are_At_Large.report
+FullName/Id: YPO_Membership/CEO_Members_who_are_At_Large/00O610000045yLBEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kirsten Mallow/00561000001QSV9AAO
+Last Modified By (Name/Id): Kirsten Mallow/00561000001QSV9AAO
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/LATAM_MVP_Report.report
+FullName/Id: YPO_Membership/LATAM_MVP_Report/00O61000001ZlJaEAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/MembersByPresType_DBTC.report
+FullName/Id: YPO_Membership/MembersByPresType_DBTC/00O61000003nYuTEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Chapters_Listing_for_Active_Inactive.report
+FullName/Id: YPO_Membership/Chapters_Listing_for_Active_Inactive/00O61000003na0hEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Active_Chapter_Region_Listing.report
+FullName/Id: YPO_Membership/Active_Chapter_Region_Listing/00O610000042vGsEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/SafeTravelSolution_AAs_Family.report
+FullName/Id: YPO_Membership/SafeTravelSolution_AAs_Family/00O610000042zfSEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/GoldMembersbyOrgType_DB1.report
+FullName/Id: YPO_Membership/GoldMembersbyOrgType_DB1/00O61000003nTc0EAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/FY19_Chapter_Membership_Officers_EMEA1.report
+FullName/Id: YPO_Membership/FY19_Chapter_Membership_Officers_EMEA1/00O61000004386nEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Tatiana Georgitsis/00561000002Doz1AAC
+Last Modified By (Name/Id): Tatiana Georgitsis/00561000002Doz1AAC
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/All_RDs_and_RSs.report
+FullName/Id: YPO_Membership/All_RDs_and_RSs/00O610000049paWEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Chapter_Membership_Officers.report
+FullName/Id: YPO_Membership/Chapter_Membership_Officers/00O610000042gXUEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jason Yeong/00561000001um7hAAA
+Last Modified By (Name/Id): Jason Yeong/00561000001um7hAAA
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Members_by_Chapter_Region_Details.report
+FullName/Id: YPO_Membership/Members_by_Chapter_Region_Details/00O610000046C89EAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/New_Member_Calls.report
+FullName/Id: YPO_Membership/New_Member_Calls/00O61000003nIw1EAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Members_with_School_Information.report
+FullName/Id: YPO_Membership/Members_with_School_Information/00O61000003nSU0EAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Pacific_US_Chapter_Founders.report
+FullName/Id: YPO_Membership/Pacific_US_Chapter_Founders/00O61000004Epg7EAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/GoldMembersbyRegionChapter_DB.report
+FullName/Id: YPO_Membership/GoldMembersbyRegionChapter_DB/00O61000003nNhqEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Current_and_Elect_RMOs.report
+FullName/Id: YPO_Membership/Current_and_Elect_RMOs/00O610000045ztsEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Dana Kobernusz/00561000001QTMrAAO
+Last Modified By (Name/Id): Dana Kobernusz/00561000001QTMrAAO
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Member_S_P_Child_Count_by_Chapt_Reg.report
+FullName/Id: YPO_Membership/Member_S_P_Child_Count_by_Chapt_Reg/00O61000003nJHEEA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Current_Members_by_Region_and_Chapter.report
+FullName/Id: YPO_Membership/Current_Members_by_Region_and_Chapter/00O61000003xVE4EAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/MembersbyAgeDB_TC2.report
+FullName/Id: YPO_Membership/MembersbyAgeDB_TC2/00O610000046Rh5EAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Contact_Record_Type_History.report
+FullName/Id: YPO_Membership/Contact_Record_Type_History/00O610000042dX6EAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Region_and_Chapter_Counts.report
+FullName/Id: YPO_Membership/Region_and_Chapter_Counts/00O610000046VdREAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Item_02955_YPO_Resignations.report
+FullName/Id: YPO_Membership/Item_02955_YPO_Resignations/00O61000003SVsREAW
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/New_Members_by_Join_Date_1.report
+FullName/Id: YPO_Membership/New_Members_by_Join_Date_1/00O610000046LaREAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jason Yeong/00561000001um7hAAA
+Last Modified By (Name/Id): Jason Yeong/00561000001um7hAAA
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Item_02924_Renewal_Details.report
+FullName/Id: YPO_Membership/Item_02924_Renewal_Details/00O61000003mlS2EAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/GoldMembersByScope_DB.report
+FullName/Id: YPO_Membership/GoldMembersByScope_DB/00O61000003nTVxEAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Item_02945_New_Mbr_by_Date_Range.report
+FullName/Id: YPO_Membership/Item_02945_New_Mbr_by_Date_Range/00O61000003pdCjEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Mike Sadigov/00561000001QblaAAC
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Bay_area_leads_301120171.report
+FullName/Id: YPO_Membership/Bay_area_leads_301120171/00O610000042n6kEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Elizabeth Simental/00561000002Dp3NAAS
+Last Modified By (Name/Id): Elizabeth Simental/00561000002Dp3NAAS
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/MembersByAge_DBTC.report
+FullName/Id: YPO_Membership/MembersByAge_DBTC/00O61000003naTFEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Members_with_Secondary_Chapters.report
+FullName/Id: YPO_Membership/Members_with_Secondary_Chapters/00O61000003nK8NEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/World_Economic_Forum_Account_Affiliation.report
+FullName/Id: YPO_Membership/World_Economic_Forum_Account_Affiliation/00O610000042n5mEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Dana Kobernusz/00561000001QTMrAAO
+Last Modified By (Name/Id): Dana Kobernusz/00561000001QTMrAAO
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/YPO_Detailed_Roster.report
+FullName/Id: YPO_Membership/YPO_Detailed_Roster/00O61000003nJFXEA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Members_with_Business_Industry_Category.report
+FullName/Id: YPO_Membership/Members_with_Business_Industry_Category/00O610000046OqmEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Opportunities_with_Amount_Due.report
+FullName/Id: YPO_Membership/Opportunities_with_Amount_Due/00O6100000461MMEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+Last Modified By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/New_Member_Kit_Send_to_Member3.report
+FullName/Id: YPO_Membership/New_Member_Kit_Send_to_Member3/00O61000003nLrKEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/AA_Safe_Travel_Members_Fy18_19.report
+FullName/Id: YPO_Membership/AA_Safe_Travel_Members_Fy18_19/00O61000004EKAxEAO
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kay Almassy/00561000001QSpOAAW
+Last Modified By (Name/Id): Kay Almassy/00561000001QSpOAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Payments_Received_by_Date.report
+FullName/Id: YPO_Membership/Payments_Received_by_Date/00O61000003nRC0EAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Dana Kobernusz/00561000001QTMrAAO
+Last Modified By (Name/Id): Dana Kobernusz/00561000001QTMrAAO
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Safe_Travel_Activation_Report_Members.report
+FullName/Id: YPO_Membership/Safe_Travel_Activation_Report_Members/00O610000046787EAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kay Almassy/00561000001QSpOAAW
+Last Modified By (Name/Id): Kay Almassy/00561000001QSpOAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Leads_to_be_converted_back_to_YPOi.report
+FullName/Id: YPO_Membership/Leads_to_be_converted_back_to_YPOi/00O610000043CRkEAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Members_with_Active_Business_Acct_Affil.report
+FullName/Id: YPO_Membership/Members_with_Active_Business_Acct_Affil/00O61000003nKO2EAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Renewal_Details_WITHOUT_Transactions.report
+FullName/Id: YPO_Membership/Renewal_Details_WITHOUT_Transactions/00O6100000463TPEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Members_by_join_date_LPP.report
+FullName/Id: YPO_Membership/Members_by_join_date_LPP/00O610000042QikEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Lynn Phillips/00561000000JTJQAA4
+Last Modified By (Name/Id): Lynn Phillips/00561000000JTJQAA4
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Integrated_Chapters4.report
+FullName/Id: YPO_Membership/Integrated_Chapters4/00O61000003nYtzEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Leah Heidema/00561000001udQyAAI
+Last Modified By (Name/Id): Leah Heidema/00561000001udQyAAI
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Chapter_Name_Changes_Tracking.report
+FullName/Id: YPO_Membership/Chapter_Name_Changes_Tracking/00O61000003n51zEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/ChapterRoster_Item_02749.report
+FullName/Id: YPO_Membership/ChapterRoster_Item_02749/00O61000003SZDwEAO
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Mike Sadigov/00561000001QblaAAC
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/MembersbyPresTypeDB_TC2.report
+FullName/Id: YPO_Membership/MembersbyPresTypeDB_TC2/00O610000046Rg7EAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/MembersbyAgeGroupDB_TC2.report
+FullName/Id: YPO_Membership/MembersbyAgeGroupDB_TC2/00O610000046RhyEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Optional_Benefit_AAs_Master.report
+FullName/Id: YPO_Membership/Optional_Benefit_AAs_Master/00O610000042zUeEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Chapter_Members_with_Address_Info.report
+FullName/Id: YPO_Membership/Chapter_Members_with_Address_Info/00O61000004600PEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Profile_Completion_Report_New.report
+FullName/Id: YPO_Membership/Profile_Completion_Report_New/00O610000043AVQEA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Leads_By_Chapter_Will_Not_Pursue.report
+FullName/Id: YPO_Membership/Leads_By_Chapter_Will_Not_Pursue/00O61000004301YEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Tatiana Georgitsis/00561000002Doz1AAC
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Benefit_Recipients.report
+FullName/Id: YPO_Membership/Benefit_Recipients/00O61000003nSK5EAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/YPO_Europe_New_Members_After7_April.report
+FullName/Id: YPO_Membership/YPO_Europe_New_Members_After7_April/00O610000045z4fEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Gold_Members_by_Gender.report
+FullName/Id: YPO_Membership/Gold_Members_by_Gender/00O61000003nNfuEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/GoldMembersbyAge_DB.report
+FullName/Id: YPO_Membership/GoldMembersbyAge_DB/00O61000003nTWWEA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Payment_Received_but_not_Closed_Won.report
+FullName/Id: YPO_Membership/Payment_Received_but_not_Closed_Won/00O610000043CilEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Dana Kobernusz/00561000001QTMrAAO
+Last Modified By (Name/Id): Dana Kobernusz/00561000001QTMrAAO
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/GoldMembersbyScope2_DB.report
+FullName/Id: YPO_Membership/GoldMembersbyScope2_DB/00O61000003nTctEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Former_Members_by_Country.report
+FullName/Id: YPO_Membership/Former_Members_by_Country/00O6100000435y8EAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Liz_Simental_Current_CC_MC_CA.report
+FullName/Id: YPO_Membership/Liz_Simental_Current_CC_MC_CA/00O610000046KNbEAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Member_with_Primary_Email_Update_History.report
+FullName/Id: YPO_Membership/Member_with_Primary_Email_Update_History/00O610000046TapEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Chapter_Industry_Report.report
+FullName/Id: YPO_Membership/Chapter_Industry_Report/00O61000003nbKnEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Converted_Leads_for_Shola.report
+FullName/Id: YPO_Membership/Converted_Leads_for_Shola/00O610000042b1BEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Dana Kobernusz/00561000001QTMrAAO
+Last Modified By (Name/Id): Dana Kobernusz/00561000001QTMrAAO
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Number_of_Employees_by_Chapter.report
+FullName/Id: YPO_Membership/Number_of_Employees_by_Chapter/00O61000003nLFBEA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Kate_Aird_Former_Members.report
+FullName/Id: YPO_Membership/Kate_Aird_Former_Members/00O61000004E3VeEAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Patrick_New_Member_Report_by_Join_Date.report
+FullName/Id: YPO_Membership/Patrick_New_Member_Report_by_Join_Date/00O610000042oiuEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Renewals_with_Grace_Exceptions.report
+FullName/Id: YPO_Membership/Renewals_with_Grace_Exceptions/00O61000003myhyEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Safe_Travel_Activation_Report_Family.report
+FullName/Id: YPO_Membership/Safe_Travel_Activation_Report_Family/00O61000004677JEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kay Almassy/00561000001QSpOAAW
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Active_Members_YPO_Gold.report
+FullName/Id: YPO_Membership/Active_Members_YPO_Gold/00O610000042NmyEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jason Yeong/00561000001um7hAAA
+Last Modified By (Name/Id): Jason Yeong/00561000001um7hAAA
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Chapter_Dues_product_pricing.report
+FullName/Id: YPO_Membership/Chapter_Dues_product_pricing/00O61000003nWoEEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Lynn Phillips/00561000000JTJQAA4
+Last Modified By (Name/Id): Lynn Phillips/00561000000JTJQAA4
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/PCE_New_Mbr_Purchase.report
+FullName/Id: YPO_Membership/PCE_New_Mbr_Purchase/00O61000004EfhKEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kay Almassy/00561000001QSpOAAW
+Last Modified By (Name/Id): Kay Almassy/00561000001QSpOAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Invoiced_Items_YPO_Tulsa_Gold.report
+FullName/Id: YPO_Membership/Invoiced_Items_YPO_Tulsa_Gold/00O610000042X4dEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Cheryl Willman/00561000002bZFIAA2
+Last Modified By (Name/Id): Cheryl Willman/00561000002bZFIAA2
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Safe_Travel_Family_Fy18_19.report
+FullName/Id: YPO_Membership/Safe_Travel_Family_Fy18_19/00O61000004EHdcEAG
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kay Almassy/00561000001QSpOAAW
+Last Modified By (Name/Id): Kay Almassy/00561000001QSpOAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Safe_Travel_Welcome_Email_List_Family.report
+FullName/Id: YPO_Membership/Safe_Travel_Welcome_Email_List_Family/00O61000004EhAXEA0
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kay Almassy/00561000001QSpOAAW
+Last Modified By (Name/Id): Kay Almassy/00561000001QSpOAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Bay_area_leads_30112017.report
+FullName/Id: YPO_Membership/Bay_area_leads_30112017/00O610000042n6fEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Elizabeth Simental/00561000002Dp3NAAS
+Last Modified By (Name/Id): Elizabeth Simental/00561000002Dp3NAAS
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/PCE_Activation_and_Email_Report.report
+FullName/Id: YPO_Membership/PCE_Activation_and_Email_Report/00O610000046AbiEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kay Almassy/00561000001QSpOAAW
+Last Modified By (Name/Id): Kay Almassy/00561000001QSpOAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Active_Members_by_Gender.report
+FullName/Id: YPO_Membership/Active_Members_by_Gender/00O610000042sAIEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Total_New_Members_by_Quarter_DB.report
+FullName/Id: YPO_Membership/Total_New_Members_by_Quarter_DB/00O610000049rDFEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/New_Members_by_Chapter.report
+FullName/Id: YPO_Membership/New_Members_by_Chapter/00O61000003nJYUEA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Joyce Jamengo/00561000001ucsrAAA
+Last Modified By (Name/Id): Joyce Jamengo/00561000001ucsrAAA
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/GoldMembersbyPresType_DB.report
+FullName/Id: YPO_Membership/GoldMembersbyPresType_DB/00O61000003nNioEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/FY19_Chapter_Membership_Officers_APAC1.report
+FullName/Id: YPO_Membership/FY19_Chapter_Membership_Officers_APAC1/00O61000004386iEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Tatiana Georgitsis/00561000002Doz1AAC
+Last Modified By (Name/Id): Tatiana Georgitsis/00561000002Doz1AAC
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/MembersByOrganizationType_DB.report
+FullName/Id: YPO_Membership/MembersByOrganizationType_DB/00O61000003i3VWEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/MembersbyRegionChapter_DBTC.report
+FullName/Id: YPO_Membership/MembersbyRegionChapter_DBTC/00O61000003nYtpEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Optional_Benefits_Cancellations.report
+FullName/Id: YPO_Membership/Optional_Benefits_Cancellations/00O6100000468HoEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Lead_History_Field_Edit_States.report
+FullName/Id: YPO_Membership/Lead_History_Field_Edit_States/00O610000046ANVEA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Carol Kramer/00561000000JTJaAAO
+Last Modified By (Name/Id): Carol Kramer/00561000000JTJaAAO
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/MOE_New_Members_4th_Qtr.report
+FullName/Id: YPO_Membership/MOE_New_Members_4th_Qtr/00O61000004Efh5EAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kay Almassy/00561000001QSpOAAW
+Last Modified By (Name/Id): Kay Almassy/00561000001QSpOAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/MembersByAgeBreakdown_DB.report
+FullName/Id: YPO_Membership/MembersByAgeBreakdown_DB/00O61000003i3X3EAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Chapter_Dues_FY18_only.report
+FullName/Id: YPO_Membership/Chapter_Dues_FY18_only/00O610000045ymWEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Lynn Phillips/00561000000JTJQAA4
+Last Modified By (Name/Id): Lynn Phillips/00561000000JTJQAA4
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Primary_and_Secondary_Chapter_Membership.report
+FullName/Id: YPO_Membership/Primary_and_Secondary_Chapter_Membership/00O610000046YpzEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/RMOs_and_RCs.report
+FullName/Id: YPO_Membership/RMOs_and_RCs/00O61000004Eeg6EAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Sched_for_Trans_Members_with_Prim_Chapt.report
+FullName/Id: YPO_Membership/Sched_for_Trans_Members_with_Prim_Chapt/00O6100000467stEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/New_Members_by_Region.report
+FullName/Id: YPO_Membership/New_Members_by_Region/00O61000003nDrjEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Carolyn Keeling/00561000002DjPvAAK
+Last Modified By (Name/Id): Carolyn Keeling/00561000002DjPvAAK
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/MembersByGender_DB.report
+FullName/Id: YPO_Membership/MembersByGender_DB/00O61000003uBaxEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/MembersByRegionChapter.report
+FullName/Id: YPO_Membership/MembersByRegionChapter/00O61000003i3VREAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Opportunities_with_Chapter_Dues_Product.report
+FullName/Id: YPO_Membership/Opportunities_with_Chapter_Dues_Product/00O61000004Ei2yEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Dana Kobernusz/00561000001QTMrAAO
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/MembersByPresType.report
+FullName/Id: YPO_Membership/MembersByPresType/00O61000003uBb2EAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/New_Safe_Travel_Email_Members.report
+FullName/Id: YPO_Membership/New_Safe_Travel_Email_Members/00O61000004EoPUEA0
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kay Almassy/00561000001QSpOAAW
+Last Modified By (Name/Id): Kay Almassy/00561000001QSpOAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Item_02957_Transfers.report
+FullName/Id: YPO_Membership/Item_02957_Transfers/00O61000003SYb9EAG
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Data_Clean_Up_Contact_Information1.report
+FullName/Id: YPO_Membership/Data_Clean_Up_Contact_Information1/00O610000042d5oEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Joyce Jamengo/00561000001ucsrAAA
+Last Modified By (Name/Id): Joyce Jamengo/00561000001ucsrAAA
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Healthwise_FY18_19_Email_List1.report
+FullName/Id: YPO_Membership/Healthwise_FY18_19_Email_List1/00O61000004EeRaEAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kay Almassy/00561000001QSpOAAW
+Last Modified By (Name/Id): Kay Almassy/00561000001QSpOAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Safe_Travel_Welcome_Email_List_Members.report
+FullName/Id: YPO_Membership/Safe_Travel_Welcome_Email_List_Members/00O61000004EhA8EAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kay Almassy/00561000001QSpOAAW
+Last Modified By (Name/Id): Kay Almassy/00561000001QSpOAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Members_with_Business_Affiliations.report
+FullName/Id: YPO_Membership/Members_with_Business_Affiliations/00O61000003nJDWEA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Data_Quality_Incorrect_Tier.report
+FullName/Id: YPO_Membership/Data_Quality_Incorrect_Tier/00O61000003nX2pEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shola Ogunrayi/00561000002ENj2AAG
+Last Modified By (Name/Id): Shola Ogunrayi/00561000002ENj2AAG
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Chapter_Dues.report
+FullName/Id: YPO_Membership/Chapter_Dues/00O610000046XCwEAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Dana Kobernusz/00561000001QTMrAAO
+Last Modified By (Name/Id): Dana Kobernusz/00561000001QTMrAAO
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/YPO_Chapters_with_Higher_Criteria1.report
+FullName/Id: YPO_Membership/YPO_Chapters_with_Higher_Criteria1/00O61000004EdEuEAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Waiver_Update1.report
+FullName/Id: YPO_Membership/Waiver_Update1/00O61000004EkhoEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Justin Senato/00561000002Dp3GAAS
+Last Modified By (Name/Id): Justin Senato/00561000002Dp3GAAS
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Total_New_Members_Regional_Chapters.report
+FullName/Id: YPO_Membership/Total_New_Members_Regional_Chapters/00O61000004Enp2EAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/FY18_Opps_Closed_Lost_w_Invoice.report
+FullName/Id: YPO_Membership/FY18_Opps_Closed_Lost_w_Invoice/00O610000049pO1EAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Will Cravens/00561000002d4lhAAA
+Last Modified By (Name/Id): Will Cravens/00561000002d4lhAAA
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Primary_and_Secondary_Chapter_Mem_Detail.report
+FullName/Id: YPO_Membership/Primary_and_Secondary_Chapter_Mem_Detail/00O610000042PPrEAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Lead_History_Activation_Date.report
+FullName/Id: YPO_Membership/Lead_History_Activation_Date/00O610000046ULREA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Carol Kramer/00561000000JTJaAAO
+Last Modified By (Name/Id): Carol Kramer/00561000000JTJaAAO
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Item_02756_Item_03985.report
+FullName/Id: YPO_Membership/Item_02756_Item_03985/00O61000003Sa4CEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Mike Sadigov/00561000001QblaAAC
+Last Modified By (Name/Id): Mike Sadigov/00561000001QblaAAC
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Item_03942.report
+FullName/Id: YPO_Membership/Item_03942/00O61000003xVDQEA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Prospects_Pending_Payments.report
+FullName/Id: YPO_Membership/Prospects_Pending_Payments/00O61000003nHyLEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Joyce Jamengo/00561000001ucsrAAA
+Last Modified By (Name/Id): Dana Kobernusz/00561000001QTMrAAO
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Data_Clean_Up_Membership_Information.report
+FullName/Id: YPO_Membership/Data_Clean_Up_Membership_Information/00O610000042daUEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Joyce Jamengo/00561000001ucsrAAA
+Last Modified By (Name/Id): Joyce Jamengo/00561000001ucsrAAA
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/MembersbyRegionChapter_DBTC2.report
+FullName/Id: YPO_Membership/MembersbyRegionChapter_DBTC2/00O610000046Rg2EAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/MembersbyAgeGroup_DBTC.report
+FullName/Id: YPO_Membership/MembersbyAgeGroup_DBTC/00O61000003naSbEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/New_Member_by_Join_Date_2.report
+FullName/Id: YPO_Membership/New_Member_by_Join_Date_2/00O610000046LEVEA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Jason Yeong/00561000001um7hAAA
+Last Modified By (Name/Id): Jason Yeong/00561000001um7hAAA
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Waivers_Exception_Report_leads.report
+FullName/Id: YPO_Membership/Waivers_Exception_Report_leads/00O610000046YzfEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Justin Senato/00561000002Dp3GAAS
+Last Modified By (Name/Id): Justin Senato/00561000002Dp3GAAS
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/MembersByAge_DB.report
+FullName/Id: YPO_Membership/MembersByAge_DB/00O61000003nGbQEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Safe_Travel_Members_FY18_19.report
+FullName/Id: YPO_Membership/Safe_Travel_Members_FY18_19/00O61000004EHcoEAG
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kay Almassy/00561000001QSpOAAW
+Last Modified By (Name/Id): Kay Almassy/00561000001QSpOAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Profile_Completion_Report_All_Members1.report
+FullName/Id: YPO_Membership/Profile_Completion_Report_All_Members1/00O610000049pJuEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Will Cravens/00561000002d4lhAAA
+Last Modified By (Name/Id): Will Cravens/00561000002d4lhAAA
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/SafeTravelSolution_AAs_Members.report
+FullName/Id: YPO_Membership/SafeTravelSolution_AAs_Members/00O610000042zVSEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/GoldMembersbyOrgType_DB.report
+FullName/Id: YPO_Membership/GoldMembersbyOrgType_DB/00O61000003nNiFEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/MembersByScope_DB.report
+FullName/Id: YPO_Membership/MembersByScope_DB/00O61000003nGaSEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Chief_Executives_Organization_Membership.report
+FullName/Id: YPO_Membership/Chief_Executives_Organization_Membership/00O61000003naArEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kirsten Mallow/00561000001QSV9AAO
+Last Modified By (Name/Id): Kirsten Mallow/00561000001QSV9AAO
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/Reinstated_Members1.report
+FullName/Id: YPO_Membership/Reinstated_Members1/00O610000042XV0EAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Denise Cromartie/00561000001QTGKAA4
+Last Modified By (Name/Id): Denise Cromartie/00561000001QTGKAA4
+************************************************************
+************************************************************
+FileName: reports/YPO_Membership/MembersByIndustry_DB.report
+FullName/Id: YPO_Membership/MembersByIndustry_DB/00O61000003nGcTEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Thomas Cook/00561000002EIpGAAW
+Last Modified By (Name/Id): Thomas Cook/00561000002EIpGAAW
+************************************************************

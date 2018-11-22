@@ -1,0 +1,232 @@
+************************************************************
+FileName: reports/Backlog_by_Iteration/BacklogbyRelease_Group.report
+FullName/Id: Backlog_by_Iteration/BacklogbyRelease_Group/00O61000003i6dtEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+Last Modified By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+************************************************************
+************************************************************
+FileName: reports/Backlog_by_Iteration/WKPR_Blocked.report
+FullName/Id: Backlog_by_Iteration/WKPR_Blocked/00O61000003i6DqEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+Last Modified By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+************************************************************
+************************************************************
+FileName: reports/Backlog_by_Iteration/WKPR_by_Group_DevEffort.report
+FullName/Id: Backlog_by_Iteration/WKPR_by_Group_DevEffort/00O61000003mqQOEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Backlog_by_Iteration/WKPR_Renewal_Reporting.report
+FullName/Id: Backlog_by_Iteration/WKPR_Renewal_Reporting/00O61000003mjTXEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+Last Modified By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+************************************************************
+************************************************************
+FileName: reports/Backlog_by_Iteration/ReportsBacklogItems.report
+FullName/Id: Backlog_by_Iteration/ReportsBacklogItems/00O61000003u92jEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+************************************************************
+************************************************************
+FileName: reports/Backlog_by_Iteration/Phase_1_Backlogs_in_QA_Accepted_by_Epic.report
+FullName/Id: Backlog_by_Iteration/Phase_1_Backlogs_in_QA_Accepted_by_Epic/00O61000003xSEOEA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Todd Reed/00561000000IfUJAA0
+Last Modified By (Name/Id): Todd Reed/00561000000IfUJAA0
+************************************************************
+************************************************************
+FileName: reports/Backlog_by_Iteration/BacklogbyGroup_Release.report
+FullName/Id: Backlog_by_Iteration/BacklogbyGroup_Release/00O61000003i6nPEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+Last Modified By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+************************************************************
+************************************************************
+FileName: reports/Backlog_by_Iteration/Backlog_Group_Release_WAVE_Analytics.report
+FullName/Id: Backlog_by_Iteration/Backlog_Group_Release_WAVE_Analytics/00O61000003mmXXEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Backlog_by_Iteration/Assignments_Applications_User_Stories.report
+FullName/Id: Backlog_by_Iteration/Assignments_Applications_User_Stories/00O61000003msQQEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+Last Modified By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+************************************************************
+************************************************************
+FileName: reports/Backlog_by_Iteration/WKPR.report
+FullName/Id: Backlog_by_Iteration/WKPR/00O61000003i6DWEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+Last Modified By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+************************************************************
+************************************************************
+FileName: reports/Backlog_by_Iteration/WKPR_by_Dept_Group.report
+FullName/Id: Backlog_by_Iteration/WKPR_by_Dept_Group/00O61000003n6tYEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+Last Modified By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+************************************************************
+************************************************************
+FileName: reports/Backlog_by_Iteration/UAT_Accepted.report
+FullName/Id: Backlog_by_Iteration/UAT_Accepted/00O61000003n9VZEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+Last Modified By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+************************************************************
+************************************************************
+FileName: reports/Backlog_by_Iteration/Backlog_by_Group_Release_Post_Go_Live.report
+FullName/Id: Backlog_by_Iteration/Backlog_by_Group_Release_Post_Go_Live/00O61000003nAmbEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+Last Modified By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+************************************************************
+************************************************************
+FileName: reports/Backlog_by_Iteration/Renewals_Reports_by_Status.report
+FullName/Id: Backlog_by_Iteration/Renewals_Reports_by_Status/00O61000003mr7hEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+Last Modified By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+************************************************************
+************************************************************
+FileName: reports/Backlog_by_Iteration/WKPR_by_Group_Status.report
+FullName/Id: Backlog_by_Iteration/WKPR_by_Group_Status/00O61000003i6dAEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+Last Modified By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+************************************************************
+************************************************************
+FileName: reports/Backlog_by_Iteration/All_Active_Backlogs.report
+FullName/Id: Backlog_by_Iteration/All_Active_Backlogs/00O61000003xRO3EAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Todd Reed/00561000000IfUJAA0
+Last Modified By (Name/Id): Todd Reed/00561000000IfUJAA0
+************************************************************
+************************************************************
+FileName: reports/Backlog_by_Iteration/ReportsNotBlockedForGoLive.report
+FullName/Id: Backlog_by_Iteration/ReportsNotBlockedForGoLive/00O61000003mm2tEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Backlog_by_Iteration/Kelli_UAT_Accepted_Reports.report
+FullName/Id: Backlog_by_Iteration/Kelli_UAT_Accepted_Reports/00O61000003mgDjEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Backlog_by_Iteration/Renewal_Dashboard_Report.report
+FullName/Id: Backlog_by_Iteration/Renewal_Dashboard_Report/00O6100000461dSEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+Last Modified By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+************************************************************
+************************************************************
+FileName: reports/Backlog_by_Iteration/Kelli_Reports_to_be_Developed_for_Day_1.report
+FullName/Id: Backlog_by_Iteration/Kelli_Reports_to_be_Developed_for_Day_1/00O61000003i6pLEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Backlog_by_Iteration/WKPR_by_Group_Status_Effort.report
+FullName/Id: Backlog_by_Iteration/WKPR_by_Group_Status_Effort/00O61000003mqYXEAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+Last Modified By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+************************************************************
+************************************************************
+FileName: reports/Backlog_by_Iteration/Backlog_by_Dept_Release_Post_Go_Live.report
+FullName/Id: Backlog_by_Iteration/Backlog_by_Dept_Release_Post_Go_Live/00O61000003nAnUEAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+Last Modified By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+************************************************************
+************************************************************
+FileName: reports/Backlog_by_Iteration/WKPR_by_Group_DevEffort_YPO_Srvc_Cloud.report
+FullName/Id: Backlog_by_Iteration/WKPR_by_Group_DevEffort_YPO_Srvc_Cloud/00O61000003mr6UEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+Last Modified By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+************************************************************
+************************************************************
+FileName: reports/Backlog_by_Iteration/Post_Go_Live_Backlog_to_pull_in.report
+FullName/Id: Backlog_by_Iteration/Post_Go_Live_Backlog_to_pull_in/00O61000003mnV9EAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Lynn Phillips/00561000000JTJQAA4
+Last Modified By (Name/Id): Lynn Phillips/00561000000JTJQAA4
+************************************************************
+************************************************************
+FileName: reports/Backlog_by_Iteration/Reports_Needed_By_Go_Live_In_progress.report
+FullName/Id: Backlog_by_Iteration/Reports_Needed_By_Go_Live_In_progress/00O61000003mjgMEAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Kelli Do/00561000001PrKOAA0
+Last Modified By (Name/Id): Kelli Do/00561000001PrKOAA0
+************************************************************
+************************************************************
+FileName: reports/Backlog_by_Iteration/Kelli_Reports_with_Status_of_QA_Accepted.report
+FullName/Id: Backlog_by_Iteration/Kelli_Reports_with_Status_of_QA_Accepted/00O61000003i8FyEAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+Last Modified By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+************************************************************
+************************************************************
+FileName: reports/Backlog_by_Iteration/WKPR_Renewal_WAVE_Reporting.report
+FullName/Id: Backlog_by_Iteration/WKPR_Renewal_WAVE_Reporting/00O61000003nPajEAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+Last Modified By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+************************************************************
+************************************************************
+FileName: reports/Backlog_by_Iteration/Stephanie_Reports_to_Research.report
+FullName/Id: Backlog_by_Iteration/Stephanie_Reports_to_Research/00O61000003metzEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+Last Modified By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+************************************************************
+************************************************************
+FileName: reports/Backlog_by_Iteration/Renewal_Stories_FY18_Project_Plan.report
+FullName/Id: Backlog_by_Iteration/Renewal_Stories_FY18_Project_Plan/00O6100000461dhEAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+Last Modified By (Name/Id): Stephanie Mayfield/00561000001mCdYAAU
+************************************************************
