@@ -64,12 +64,12 @@
                             <suffixlines suffix="&lt;/members&gt;"/> 
                             
                             <tokenfilter> 
-                                <replacestring from="FileName: reports/" to=""/>
+                                <replacestring from="FileName: CustomField/" to=""/>
                                 <replacestring from="FileName: documents/" to=""/>
                                 <replacestring from="FileName: email/" to=""/> 
                                 <replacestring from="FileName: dashboards/" to=""/>  
                                 <replacestring from="FileName: unfiled$public" to="unfiled$public"/>
-                                <replacestring from=".report" to=""/> 
+                                <replacestring from=".CustomField" to=""/> 
                                 <replacestring from=".email" to=""/> 
                                 <replacestring from=".dashboard" to=""/>
                             </tokenfilter>
@@ -82,7 +82,7 @@
 							<concat destfile="tmp/@{orgName}.Package.xml.Snnipet.@{componentType}" append="true" >${tab}${tab}@{line}${line.separator}</concat>
 						</sequential>
 					</for>
-                    <!-- <echo> Extracted Report Names - ${@{orgName}.@{componentType}.@{folderName}} </echo> -->
+                    <!-- <echo> Extracted classes Names - ${@{orgName}.@{componentType}.@{folderName}} </echo> -->
                </then>
            </if>
         </sequential>    
@@ -116,7 +116,7 @@
                         <contains value="FileName"/>
                     </linecontains>  
                     <tokenfilter>
-                        <replacestring from="FileName: reports/" to=""/>
+                        <replacestring from="FileName: CustomField/" to=""/>
                         <replacestring from="FileName: documents/" to=""/>
                         <replacestring from="FileName: email/" to=""/> 
                         <replacestring from="FileName: dashboards/" to=""/>  
@@ -156,20 +156,20 @@
         <sequential>
              <!-- Delete All files first else it will append to existing old file -->
             <delete file="tmp/@{orgName}.Package.xml.Snnipet.Dashboard"/>
-            <delete file="tmp/@{orgName}.Package.xml.Snnipet.Report"/>
+            <delete file="tmp/@{orgName}.Package.xml.Snnipet.CustomField"/>
             <delete file="tmp/@{orgName}.Package.xml.Snnipet.EmailTemplate"/>
             <delete file="tmp/@{orgName}.Package.xml.Snnipet.Document"/>
             
             <!-- Create Fresh Files -->
             <touch file="tmp/@{orgName}.Package.xml.Snnipet.Dashboard"/>
-            <touch file="tmp/@{orgName}.Package.xml.Snnipet.Report"/>
+            <touch file="tmp/@{orgName}.Package.xml.Snnipet.CustomField"/>
             <touch file="tmp/@{orgName}.Package.xml.Snnipet.EmailTemplate"/>
             <touch file="tmp/@{orgName}.Package.xml.Snnipet.Document"/>
             
             <!-- Empty Content in each file -->
             <property name="blankVal" value=""/> 
             <concat destfile="tmp/@{orgName}.Package.xml.Snnipet.Dashboard" append="true">${blankVal}</concat>
-            <concat destfile="tmp/@{orgName}.Package.xml.Snnipet.Report" append="true">${blankVal}</concat>
+            <concat destfile="tmp/@{orgName}.Package.xml.Snnipet.CustomField" append="true">${blankVal}</concat>
             <concat destfile="tmp/@{orgName}.Package.xml.Snnipet.EmailTemplate" append="true">${blankVal}</concat>
             <concat destfile="tmp/@{orgName}.Package.xml.Snnipet.Document" append="true">${blankVal}</concat>
             
@@ -197,9 +197,9 @@
                 sfUserName="@{sfUserName}"
                 sfPassword="$${sfPassword.prop.@{orgName}}" 
                 sfServerURL="@{sfServerURL}"
-                metadataType="ReportFolder"  
-                componentType="Report"
-                tmpFolderPath = "tmp/@{orgName}.ReportFolders.log" 
+                metadataType="CustomFieldFolder"  
+                componentType="CustomField"
+                tmpFolderPath = "tmp/@{orgName}.CustomFieldFolders.log" 
                 orgName="@{orgName}" 
             />  
             
@@ -225,13 +225,13 @@
             
             <!-- Load Generated File content which has Snippet of Package.xml in Property -->
             <loadfile property="@{orgName}.DashboardFolder.log.edit" srcFile="tmp/@{orgName}.Package.xml.Snnipet.Dashboard" failonerror="false"/>
-            <loadfile property="@{orgName}.ReportFolder.log.edit" srcFile="tmp/@{orgName}.Package.xml.Snnipet.Report" failonerror="false"/> 
+            <loadfile property="@{orgName}.CustomFieldFolder.log.edit" srcFile="tmp/@{orgName}.Package.xml.Snnipet.CustomField" failonerror="false"/> 
             <loadfile property="@{orgName}.EmailFolder.log.edit" srcFile="tmp/@{orgName}.Package.xml.Snnipet.EmailTemplate" failonerror="false"/>
             <loadfile property="@{orgName}.DocumentFolder.log.edit" srcFile="tmp/@{orgName}.Package.xml.Snnipet.Document" failonerror="false"/>
             
             <copy file="${package.xml.template}" tofile="@{packageXMLPath}" overwrite="true" failonerror="true"/> 
             <replace file="@{packageXMLPath}">
-                <replacefilter token="_replaceReportMembersTag_" value="${@{orgName}.ReportFolder.log.edit}"/> 
+                <replacefilter token="_replaceCustomFieldMembersTag_" value="${@{orgName}.PageFolder.log.edit}"/> 
                 <replacefilter token="_replaceEmailTemplateMembersTag_" value="${@{orgName}.EmailFolder.log.edit}"/> 
                 <replacefilter token="_replaceDashboardMembersTag_" value="${@{orgName}.DashboardFolder.log.edit}"/> 
                 <replacefilter token="_replaceDocumentMembersTag_" value="${@{orgName}.DocumentFolder.log.edit}"/> 
